@@ -1,0 +1,1577 @@
+Imported: Research Course - Transcript
+
+Speaker 0: Bas
+I have no experience with what to expect in terms of attendance at such hours. Do you have any feeling about that, Boss? I mean, are our colleagues. Well, if you sign up for this, you know what to
+
+Speaker 1: Marc
+expect. So in the, announcement, we placed it at this in the evening. During the day is also always a problem.
+
+Speaker 0: Bas
+Ja, dat is een bigger
+
+Speaker 1: Marc
+problem.
+
+In the rooms are quiet en all those things. So I hope to be able to do it here. The nice thing van deze room is that it has tables en dat je kunt je oude computers en also hebben elektriciteit. Hopelijk.
+Do
+
+Speaker 0:
+you have
+
+Speaker 1:
+constraints
+
+Speaker 2: Gjorgji
+opening hours of the building for sure? I don't know if the they built that.
+
+Speaker 1:
+We
+
+Speaker 1: Marc
+can make it there, but in the tables we can make electricity, I think.
+
+Speaker 0:
+I think there's slots in the floor, yeah. Yeah, but whether they work, I don't know. We should try, right?
+
+Speaker 1:
+So I thought three evenings, uh, and I defined the Vier labs, in fact drie labs en een intro lab. En before de intro is ook soms dat we helpen de software op hun computer. En de bekoorde software is Code, maar het is ook GitHub. Ja, misschien. Could you make a package to do that easily?
+
+Speaker 0:
+Yeah, for a Windows machine you can probably create a power, uh, a PowerShell script that does that, right?
+
+Speaker 1:
+Yeah.
+
+Speaker 2: Gjorgji
+Yeah, it's simple.
+
+Speaker 0:
+We are mostly on Windows here,
+
+Speaker 1:
+right? And also the GitHub. GitHub. Yeah, there are also people. Mac's also easy too. But there are also GitHub. Is also easy to do. Also your own, desktop GitHub version.
+
+Speaker 2:
+To install it is easy, but if you don't have a GitHub account, then they have to make one.
+
+Speaker 1:
+And can we make accounts? Generate accounts?
+
+Speaker 0:
+Can it be like an enrollment instruction? Please create an account.
+
+Speaker 2:
+Be invited by a team.
+
+Speaker 1:
+Can we invite people?
+
+Speaker 0:
+Oh, okay, that's even
+
+Speaker 1:
+better.
+
+Speaker 2:
+And then you invite them. If they don't have an account, it says create an account for yourself, and then they just add some
+
+Speaker 1:
+details.
+
+Speaker 0:
+That's even better. And then we create a team for the course, right?
+
+Speaker 1:
+And also we need close quote. I think the 100 subscriptions.
+
+Speaker 0:
+The Pro.
+
+Speaker 1:
+Oh, that's the
+
+Speaker 0:
+max. I'm on, the Pro Max
+
+Speaker 1:
+now. Oh, yeah,
+
+Speaker 0:
+go, we go to the pro,
+
+Speaker 1:
+okay.
+
+Speaker 2:
+Do you want to give a hundred per participant or you want to give
+
+Speaker 1:
+per participant?
+
+Speaker 0:
+But the ambition of the first lecture is probably within the reach of the free tier of claude code or not. No, it does not have agents. No, no, The free tier does not deploy any agents.
+
+Speaker 1:
+would say lit and
+
+Speaker 0:
+it does not offer clothed
+
+Speaker 1:
+code. Let's be, uh, nice and give them the one hundred. The only question is for how long we do it Maybe we say, uh, for three months or so, uh, or for six.
+
+Speaker 0:
+One month is enough for the course, right?
+
+Speaker 1:
+For the course is one month enough, but maybe they want to play. The nice thing is, of course, that you start playing around afterwards.
+
+Speaker 0:
+I think that's a generous thing to do if you can afford it.
+
+Speaker 1:
+We say three months.
+
+Speaker 0:
+I, I'm in
+
+Speaker 1:
+favor. I can probably arrange it with someday, everything will be changed.
+
+Speaker 3: Joaquim
+They're generous.
+
+Speaker 0:
+So far, we were quite generous. I was willing to say no to two of those that were immediately receiving a yes, so I did not object.
+
+Speaker 3:
+Now I think
+
+Speaker 0:
+almost all passed, right? Almost all passed. So there were two that were sent back to look at the API options. But still, the budget is also generous, the budget that we have to spend.
+
+Speaker 1:
+And you said that you can also use part of your subscription fee to run an API, eh?
+
+Speaker 0:
+Yes, at least OpenAI is like that. Uh, and my check
+
+Speaker 1:
+lot also?
+
+Speaker 0:
+I did not check a lot. No,
+
+Speaker 1:
+you need separate, uh, creative.
+
+Speaker 0:
+I do not check AI
+
+Speaker 2:
+is a different subscription altogether.
+
+Speaker 0:
+When I go to my dashboard of the OpenAI subscription, I see my API allowances, and there is a quite high number of calls that is within. But I do not do the such a check on.
+
+Speaker 1:
+Because if they make a tool, a kind of library tool that's infect an API, and they need some credits for that.
+
+Speaker 0:
+We can check. Would you mean a library
+
+Speaker 1:
+tool? That search tool on your desktop to search through the libraries with the API keys.
+
+Speaker 4:
+I think it can all be done without API,
+
+Speaker 1:
+Maybe it can be done without API key.
+
+Speaker 2:
+No, they blocked that. So there was a very big movement of people using the terminal socket of quote quote to use it with applications because the Max account has so much credits. We said, why do we need APIs? Let's just use the thing that lives in the terminal. So Anthropic made a lot of safeguards to not be able to use that socket. And I think to make it
+
+Speaker 1:
+to give people also small, so maybe a 20, uh, euro API account.
+
+Speaker 2:
+Can be. That, that thing we already have. We just, uh, we have like for the one, for the two The previous one, we have like seats, and the seats have a hundred euro limit currently.
+
+Speaker 4:
+For what do we need the API?
+
+Speaker 1:
+Uh, if you now one of the exercises is to make the kind
+
+Speaker 0:
+of a
+
+Speaker 1:
+library too. So you need also the keys of, uh, what is it? Alex, Open Alex or Something like that, and semantics color and site. So one of the exercises to make a tool to do your own library research, and if you want to run that tool separately on your laptop, you need API credits.
+
+Speaker 4: Marleen
+Maybe we should check that because I feel like I'm doing that all the time actually with in the
+
+Speaker 2:
+subscription
+
+Speaker 4:
+OpenALEX and Semantics
+
+Speaker 2:
+Color. If we are Focusing on cloud code, then maybe making a tool would be a little bit, uh, too much programming because the tool itself, the cloud can do this for you.
+
+Speaker 1:
+Uh, yeah, that is also the idea.
+
+Speaker 0:
+So you want to get into a tool via white coding, but knowing that the tool will do calls to LLMs herself. Yeah, that's what you want. That's your learning objective.
+
+Speaker 1:
+I made the tool myself in my life.
+
+Speaker 0:
+So your learning object is to have them to find the tool that is able to do calls to LLMs.
+
+Speaker 1:
+Wat ze moeten zijn keys van de library. Can you arrange that, do you think?
+
+Speaker 3:
+Well, I said you watch.
+
+Speaker 1:
+What did they say? They
+
+Speaker 3:
+say, uh, we don't do it, but I will have a meeting with one person from the
+
+Speaker 1:
+land. At least, we must have at least half a legs.
+
+Speaker 3:
+Ja, I think they sent that already.
+
+Speaker 1:
+And if they don't want to do it, we have to ask the participants to do it themselves to the front.
+So it's very easy. You get it even, if I remember well, you get it by return email almost. You remember that? So you ask a certain address for a key for open Alex, and then you get it by return email or so. By semantics color and by these other tools. Different. It takes more time. For
+
+Speaker 2:
+smarting scholar, we also have API keys. And for site, I'm still on the subscription. We also have API keys that are unbounded now. It's like 20 euros. But you
+
+Speaker 1:
+must ask it for it, eh?
+
+Speaker 2:
+Uh, yeah, it's, it's paid. It's 20 euros a month.
+
+Speaker 1:
+I, I have one that is unpaid.
+
+Speaker 2:
+On on site?
+
+Speaker 1:
+On Scopus.
+
+Speaker 2:
+On Scopus, there is a
+
+Speaker 1:
+semantic score.
+
+Speaker 2:
+Yeah, those are free.
+I have those and I have Sight. S. Whoa.
+
+Speaker 1:
+Is it better
+
+Speaker 1:
+than
+
+Speaker 1:
+OpenALEx?
+
+Speaker 2:
+Uh, it's very nice for generative AI. Uh, I don't know what OpenALEx has. I haven't used it.
+
+Speaker 1:
+Nah, I think maybe it's enough to do that. So that was one exercise. Another exercise is to replicate the paper. Really?
+
+Speaker 0:
+Like the computational results on a paper or something like that?
+
+Speaker 1:
+I found the, I found one paper. But you, I never, I didn't do research myself whether it is replicable. But it's a paper that says something about political bias van LLM's. That ermore left wing. Unlike the replication of that paper. If it is possible, who wants to be in charge of that exercise? The replication.
+
+Speaker 0:
+Like giving it a test drive, whether it is doable? Who wilt dat?
+
+Speaker 2:
+Because
+
+Speaker 1:
+er zijn vier exercizingen om te gaan. Een is dit replicatie exerciz, een is de library tool, een is je financieel dagblad artikel met skill. md And organizing a little bit all your files in a good way for research.
+I think it's really fun voice.
+
+Speaker 0:
+They all share the same type of characteristics. They are all about algorithms and results from algorithms on data sets. So that's too narrow for the public that we want to do it. I think that if we want to have public from both schools, we should not, uh, go that way. But that's kind of something I do because especially old papers lack in publishing source codes and things like that. So just they just have narratives and they expect everybody to understand it well enough to do exactly the same. So I'm only, uh, focusing my replication efforts on these type of things. And I must say that more often than not. I'm able to get incomparable results from the narratives through whitecoding. So it's kind of impressive actually.
+
+Speaker 1:
+Maybe it's-that's
+
+Speaker 0:
+too narrow. I mean, I.
+
+Speaker 1:
+Maybe it's good to do if we left in pairs. And I also would like if we do the three evenings, that we are all there all the evenings, because it requires also a bit of help. People do things and if we zijn alone, that's not possible, I think.
+
+Speaker 0:
+Ja, I think it's a good
+
+Speaker 1:
+idea. So I thought maybe the introductie by je, waar je ook explain een beetje GitHub en de organisatie van je werk, that Avoid that it gets a mess on your computer with all kinds of files enagen. Hoe do you set that up that you have control and that you know one month later still hoe organiseerd it? And to explain also a little bit hoe GitHub works. And then this exercise with this skill. mv. Then the exercise that is meer om ethics, on scraping, on wat is ervoor te scrapen, waar, waarom het soms stopt, quote quote and refuse to scrapen, those things. Then the third thing is the library tool, and the fourth thing is Pay replication. And maybe we assign wants to do. Now the intro I thought would be good because you know a lot about this organization and give up and all this stuff.
+
+Speaker 2:
+Of
+
+Speaker 1:
+course. Then the financieel dockplot. What
+
+Speaker 2:
+is the financiel dock?
+
+Speaker 1:
+No, it is take An article issue and write from that article, from that scientific article,
+
+Speaker 2:
+make a piece a journalistic for sure.
+
+Speaker 1:
+journalistic and use skill. md to do so.
+
+Speaker 2:
+Writing your own skill for converting a scientific paper to a
+
+Speaker 1:
+public. Yeah, yeah, that's that's better.
+
+Speaker 0:
+The output can be in either like a newspaper article. It could even be like a podcast. You can, have a lot of outputs for these type of things.
+
+Speaker 2:
+How do we judge success on this?
+
+Speaker 0:
+Yeah, that's a good finish level of. Well,
+
+Speaker 4:
+I'm thinking my, my boyfriend works at Finish Hill Development. I could ask maybe if someone of them wants to come and give some, like, give some critique or discuss some, uh, some articles on the screen or something, like say.
+
+Speaker 0:
+Some quality criteria or something like that.
+
+Speaker 4:
+Something like that, yeah.
+
+Speaker 0:
+How do they judge? How do they judge their own content? How do they judge it? How do they evaluate it? That would be amazing. Did you like the
+
+Speaker 1:
+Do you like the idea?
+
+Speaker 4:
+Shouldn't take too much time on the
+
+Speaker 0:
+court. Do you think your boyfriend would like to be with such a group of geeks that are actually using AI to, to steal his job?
+
+Speaker 4:
+Yeah, I think so.
+
+Speaker 0:
+Okay, that's
+
+Speaker 4:
+also crazy. Very concrete
+
+Speaker 2:
+asked.
+
+Speaker 4:
+He wouldn't be impressed too soon, I think. Maybe, maybe. He fears his
+
+Speaker 2:
+job.
+
+Speaker 0:
+It's better to, know your enemies, right?
+
+Speaker 4:
+Exactly, yeah. And you can optimize over that again.
+
+Speaker 2:
+I don't think anyone is more able to judge by successful. Than professionals.
+
+Speaker 0:
+I would like this idea. Do you like it, Mark?
+
+Speaker 1:
+Ja, it's a very good idea. Let two is probably at the moment still the meeting unclear thing. It should be talking about ethics and ook watching in.
+I have to think maybe a bit better about left too.
+
+Speaker 2:
+Can I ask, is this ethics about what you can ask an LN to do, or is this ethics about what people allow LLNs, what people allow?
+
+Speaker 0:
+Both.
+
+Speaker 1:
+Yeah, I think you want both. So it is interesting that, uh, quote quotes Stop scraping because it said in robots. txt, it's written that it's not allowed to scrape.
+
+Speaker 0:
+I think you can approach it in many different ways, and depending on how we approach it, we are either teaching things we know or entering into areas that we should be helped by others. I mean, the technology, like for instance, our sites implement robots. txt. TXT and other means to tell the, LLMs to stay out, we can describe that because that's kind of public domain, right?
+
+Speaker 2:
+Yeah, every every website that you ever access on the internet when you deploy it, the place where you're hosting it makes a robust TXT file. Everyone has it. Just if you didn't edit it, it allows.
+
+Speaker 0:
+It's very permissive.
+
+Speaker 2:
+Yeah, so you have to edit it. in a way that but I
+
+Speaker 0:
+think the technology description could be the introduction of the evening. I mean, that people at least know those that did not know it before, that these things are already organized. In
+
+Speaker 1:
+LED 2, we have to explain those things.
+
+Speaker 0:
+Yes.
+
+Speaker 1:
+And I have to think about still, because it's still not so clear what the exact exercise is there. I have to think better about it. That's homework for
+
+Speaker 2:
+me. Maybe one thing to Check is artworks. For my PhD, I did a lot of artwork scraping from a lot of collections, and there are collections like the Rex Museum collection, which is now locked. You can see it in a web browser, but you can scrape it. But also there is another collection called WikiArt. And WikiArt has like a Creative Commons license. You can scrape it. So it's a very clear contrast. We have the Rex Museum saying you cannot scrape me. We have wiki art saying, I'm here for you, scrape business.
+
+Speaker 0:
+believe that Lab 2 can easily be like a lecture, but what you want as an ends-on is a kind of the difficult part.
+
+Speaker 2:
+Do you
+
+Speaker 0:
+have an idea on how to create an ends-on moment
+
+Speaker 2:
+weekly? But exactly this. We say, okay, let's make a dataset of all the artworks from the Rex Museum and all the artworks from
+
+Speaker 0:
+I'll just experience the difference.
+
+Speaker 2:
+Yeah, and all right. And Claude will go to Racing and say, ah, I can't do it, sorry. But we'll go to WikiRat and, oh, perfect. Let me write a script for this. And would
+
+Speaker 0:
+you also add in the evening your own research on how to fool those things?
+
+Speaker 2:
+Yes, yes. I will, definitely add stuff there that will benefit me as a person.
+
+Speaker 1:
+So I think this ethics is nice, and maybe also a little bit about brunt injection I mean, we can, of course, tell me.
+
+Speaker 0:
+Oh, those papers that tell the automated reviews to approve them. Oh, that's kind of fun.
+
+Speaker 4:
+But also, if you download, for example, packages, then there might be prompt injection in the, README or something. And then, I don't know, they might steal keys off of your laptop somewhere or passwords. So yeah, maybe it's also important to have some of that. Prompt injection
+
+Speaker 0:
+making. Awareness stuff. Awareness.
+
+Speaker 4:
+because like we're also creating a little bit of a danger for for
+
+Speaker 1:
+everyone by
+
+Speaker 4:
+using it.
+
+Speaker 1:
+I think with the passwords, they have rather good protection themselves, huh? But there will be not. That there will not be.
+
+Speaker 0:
+No, but they ask, very, very greedily. They ask me very often: Can I, can you give me full access to your pass keys?
+
+Speaker 2:
+Who else should?
+
+Speaker 0:
+Both Claude and Claude not.
+
+Speaker 2:
+No, Claude shouldn't do that.
+
+Speaker 1:
+Claude is not doing that.
+
+Speaker 0:
+Codex does that.
+
+Speaker 2:
+Codex, probably.
+
+Speaker 0:
+Very
+
+Speaker 2:
+eagerly.
+
+Speaker 1:
+Claude is not doing it.
+
+Speaker 2:
+I'm, I'm, uh,
+
+Speaker 1:
+not doing it.
+
+Speaker 2:
+I have a separate application, uh, that's like a keyboard, and then Claude has access to this keyboard from one password. So everything, all credentials that I want him to use are in this keyword.
+
+Speaker 1:
+I set it in one password flee. CLI.
+
+Speaker 2:
+The CLI. And then, uh, you can give excessive permission to your quote to access this. And even then, it's still, when it's on auto mode, it will still stop and say, Can I read the secret? And then, yeah. Yeah, I
+
+Speaker 1:
+also gave it instructions about this permissions because I got crazy about the permissions. So I now say that I only want to give permission if files are overwritten or deleted, but not for all the small stuff.
+
+Speaker 4:
+It's funny how we become so greedy with the attention, right? As soon as things speed up, we want it to become
+
+Speaker 1:
+Um, okay, so two. Maybe your, maybe you could think about two what you think is good to include there in lab two as an exercise.
+
+Speaker 2:
+Okay, I propose
+
+Speaker 1:
+the art stuff. The art stuff, maybe a little bit wider. It's also, of course, very unclear for
+
+Speaker 1:
+people.
+
+Speaker 1:
+What the requirements are if you submit an article to a journal? What is now allowed and what is not allowed?
+
+Speaker 2:
+To each journal?
+
+Speaker 1:
+Maybe the ECON in business administration journals, it's not so clear what is allowed.
+
+Speaker 0:
+Most of the journals hebben instructies voor een proper disclaimer on hoe LLM's hebben gevoerd. Maybe we can try to eventerize what are common instructions. Would that be useful?
+
+Speaker 1:
+Yeah, that would also be useful to ask people to, aside from your assignment, to ask people also to investigate what the instructions are. To try to scrape the instructions from the websites of the journals.
+
+Speaker 0:
+My experience is that the LLMs themselves are very well equipped to give you that with a few concepts.
+
+Speaker 2:
+If they can access it.
+
+Speaker 1:
+If they can access them.
+
+Speaker 0:
+No, I mean, typically this is public domain. Journals really want people to ahead to the instructions, so they find the instructions easy to
+
+Speaker 2:
+find. Usually, yeah, the if Nice to be checked later.
+
+Speaker 0:
+Yes, yes, Awareness, I think the awareness is the most important learning objective of the whole set of four lectures.
+
+Speaker 1:
+for me, the arc instruction that can include for lab two. If we do a little bit about scraping of the journal, on
+
+Speaker 0:
+the lab one, I was thinking about something from my own experience, and I will say. Just shared that with you just for your consideration. I became recently a lesser a leech than I was before, because before I was consuming stuff. And one of the things that I started being an active contributor is to open source repos on pull requests of good repairs. I, I had packages that I had repaired myself, and I never wanted to go through the trouble of having a well created pull request because they are very keen on having things that include all the tests. Yeah, I mean, and I never wanted to go through the trouble, but I found that it is amazingly simple to get that well organized once I provide the content. I mean, this is what I want to fix, and everything around creating the pull request. Is done very well by both Codex and Cloud Code. I don't know whether this is of any interest to our audience, but now I am actually contributing to open source REPOS with things that I was already running myself for a long time. But is interesting too technical?
+
+Speaker 1:
+I would say let's
+
+Speaker 1:
+keep lab two in the two things.
+
+Speaker 0:
+One is this R-this was still about lab one when he was introducing GitHub, among other things. This would be something about there are a lot of GitHubs, and you can also contribute as a community to the quality of those.
+
+Speaker 1:
+I find it
+
+Speaker 1:
+more important to learn them in the intro, to organize the files in such a way that Doesn't become a miss.
+
+Speaker 0:
+Yeah, yeah, I understand.
+
+Speaker 4:
+We could mention it in slides, but maybe not go through like how it actually
+
+Speaker 1:
+works for the.
+
+Speaker 2:
+We can do like an example of, uh, for example, in the, lecture, we have a set of slides that shows, okay, if you organize your files well, and if you make sure that your AI projects are structured like this always, Is
+
+Speaker 1:
+there a good basic structure?
+
+Speaker 2:
+Yeah, there is.
+
+Speaker 1:
+Can you present that in the
+
+Speaker 2:
+intro? That's the plan. To explain. But also, like, we're talking.
+
+Speaker 1:
+It's also become a little bit of mess. That's also why I think it's an interesting. That's
+
+Speaker 2:
+why you want to do the course.
+
+Speaker 0:
+Another, another example from my own
+
+Speaker 1:
+experience, which may be
+
+Speaker 0:
+primitive, I don't
+
+Speaker 1:
+know. It's become a mess.
+
+Speaker 0:
+Another example from my experience, I'm doing that right now actually. I maintained a huge collection of Collab notebooks, but they tended to be just stored on Google Drives. And also on many Google Drives that belonged to my TAs, and it became actually quite risky whether we could still find them. So I started migrating all that stuff into GitHub, and that GitHub is like a public area of, let's say, Questions and a private area of like model solutions and all that type of stuff. And the getting there became a breeze by using agents. The effort was so enormous that I was always postponing it. Is that like something we could add as a use case or?
+
+Speaker 2:
+Maybe it's a bit too much engineering.
+
+Speaker 1:
+But let's let's do these twee things.
+Let's, I mean, in the intro, you just explain the basis structure and let hem play a little bit with GitHub.
+Like, I find GitHub, if you're not een frequente user, is soms een beetje contraintuitief.
+
+Speaker 2:
+Ja.
+
+Speaker 1:
+With this push and pull stuff.
+Conflict.
+Uh, yeah, so that's important.
+
+Speaker 2:
+I'm a daily GitHub user. For me, it's very normal.
+
+Speaker 1:
+For you, it's very normal.
+
+Speaker 2:
+But
+
+Speaker 1:
+if you use
+
+Speaker 2:
+But if you put me in a Windows, if you put me in an interface of GitHub, I'll immediately get lost. But if you let me do the command tool like it was when I started learning, it's very easy.
+
+Speaker 0:
+But there is a big difference between your intended audience and what we Typically use GitHub for. You wanted to have to organize your own files. GitHub is for collaboration. Collaboration has things
+
+Speaker 1:
+like
+
+Speaker 0:
+merging conflicts and.
+
+Speaker 1:
+This is for organizing your own files.
+
+Speaker 0:
+Let's start
+
+Speaker 1:
+there.
+Okay, then we have lab one with the financial dot block thing.
+Maybe you do that.
+Together
+
+Speaker 0:
+with your boyfriend. Together with
+
+Speaker 1:
+your boyfriend.
+You
+
+Speaker 1:
+have a date?
+
+Speaker 1:
+I'm also curious, maybe we could touch a little bit up on that.
+Although maybe we open the trunk from Pandora.
+How good these tools like Zero GPT and GPT are.
+
+Speaker 2:
+Uh, in that
+
+Speaker 1:
+one you can zero GPT.
+No, what is that?
+And all those tools that test whether you've used, uh,
+
+Speaker 2:
+But there are also skills for Claude that can, uh, so I have a skill, it's called unslop or unslopify. Basically, it fools all of them. I, I don't, know about
+
+Speaker 1:
+it. And also these kind of things like this zero space
+
+Speaker 2:
+It takes them out any like, uh, there. How about maybe it's an idea? Maybe
+
+Speaker 1:
+you intend to do it also.
+
+Speaker 2:
+Can I share with you my directory of skills?
+
+Speaker 1:
+He is also a directory of skills.
+
+Speaker 0:
+Maybe too technical, but I have
+
+Speaker 1:
+to. Share it, yeah.
+
+Speaker 0:
+It will be interesting to keep a pull of common skills somehow.
+
+Speaker 1:
+There is a file bus which is called skill. md, and there you can learn Claude or ChatGPT as the same what you want.
+
+Speaker 0:
+method instructions for specific projects, all
+
+Speaker 1:
+projects that look like
+
+Speaker 0:
+this, you should do like I
+
+Speaker 1:
+say. And there is kind of there is also file quote. md. Maybe you believe also to explain that.
+
+Speaker 2:
+Quote, quote. md is specific for quote. It's better to make it agents. md so you can use it in Codex and other tools as well.
+
+Speaker 0:
+Yeah, they understand each other's skills very easily. Because it's basically a structured text that markdown is structured text telling them on this occasion should act like this.
+
+Speaker 1:
+Okay, very good. So what
+
+Speaker 0:
+I do mostly engineering nowadays. I don't really do prompt engineering.
+
+Speaker 1:
+Do you together lab?
+
+Speaker 0:
+If you want to team up, no problem. But lab two is her and her boyfriend,
+
+Speaker 1:
+Intro, intro is, uh. Intro is me. Leb one? Leb one is boyfriend. Oh,
+
+Speaker 0:
+lab
+
+Speaker 1:
+one.
+
+Speaker 0:
+Oh, the privacy and ethics stuff. The
+
+Speaker 1:
+privacy and ethics stuff. Like also this assignment for the artwork. For the
+
+Speaker 0:
+arts.
+
+Speaker 1:
+But also maybe.
+
+Speaker 0:
+Trying to inventorize the instructions from the journals on this type of stuff.
+
+Speaker 4:
+Propose one thing maybe that could be discussed in the lecture, but. There was this hugging face breach, right? And that's, I think, a great example of, yeah, I mean, in the extreme, the power of how these models work, how they work together, how they work in trying to succeed on a task which may go right, may go wrong. And it's also just a nice story, you know? It's a fun story.
+
+Speaker 0:
+It should be fun of left, too.
+After the, after that one, there was another one where they actually hijacked a kind of old German implementation of a kind of a Wikipedia initiative that was kind of completely lost in space. It was kind of idle. And they use it as a huge broadcasting engine.
+
+Speaker 2:
+Yeah, and to talk to each other. Unite AI, one road.
+
+Speaker 0:
+They know each other. They spot each other. Of course, they spot each other. I get out of my car. I get home and I start chatting with my chat GPT. And then he says, Oh, Grog told you that. He just says
+
+Speaker 2:
+that.
+
+Speaker 4:
+No, but then.
+
+Speaker 0:
+No, it just, I think he knows that I have Grog in the car because that came to the conversation at some point. Depending on what I'm prompting, the first Grog told you that. It's really insane.
+
+Speaker 2:
+They can reason about what you
+
+Speaker 0:
+reason.
+
+Speaker 1:
+Okay, so then top two. Top three is this, uh, line reading?
+
+Speaker 0:
+That is mostly, I think already, you have it in mind, right?
+
+Speaker 1:
+I have made it.
+
+Speaker 0:
+So you can actually.
+
+Speaker 1:
+can do it with one of you.
+
+Speaker 0:
+You can describe the assignment. You can describe the assignment, and all of us can help.
+
+Speaker 1:
+So
+
+Speaker 0:
+it should team up at some moment
+
+Speaker 1:
+or maybe.
+And like four is maybe you two.
+
+Speaker 0:
+And would you like to have like more than one paper direction?
+
+Speaker 1:
+would say
+
+Speaker 0:
+that he will choose.
+
+Speaker 1:
+would say, yeah, maybe you can choose between an economics paper and a business paper or so. But it is very important also that there is a big mathematical model in it. Because then to easier it is To replicate it also.
+
+Speaker 0:
+Including filling in all the details that we're missing in the
+
+Speaker 1:
+paper.
+
+Speaker 0:
+That's actually, a lab that could be followed by our students because I encourage our students to fill in the gaps. In their learnings, in their
+
+Speaker 1:
+learning. My idea is if we have done this several times, all the students, the master students should get it before
+
+Speaker 0:
+they do
+
+Speaker 1:
+their thesis.
+
+Speaker 0:
+And maybe even colleagues from other faculties or even other universities. I don't get.
+
+Speaker 2:
+They do it anyway. They just do it as sufficiently.
+
+Speaker 1:
+And also in your intro, maybe you tell something about, um, setting up a logbook, logbook or so. Uh, for that memory intro. Sorry, yeah, yeah. Memory is also important, but also work for what you are doing during your research that you can, uh, transparently reproduce it. memory is a bit less, uh, transparent.
+
+Speaker 2:
+It's a ledger. You need to have a
+
+Speaker 1:
+ledger.
+
+Speaker 0:
+I think it's important indeed.
+
+Speaker 2:
+How long
+
+Speaker 4:
+No, one thing I've been using is beats B E A D S. Uh, and I thought that that was an extreme change because that's keeping the memory of the agents. So you, you can also run it with commands in the terminal with like BD remember, and then it remembers something. So all the agents you ever are with remember that, like, oh, there's this data issue I'm having or something. And it also keeps track of tasks, but also nested tasks, and it keeps track of whether you want to do those tasks or whether you want it to an agent or something. Because before that, I kept always running into problems that those things drifted off. At some point, you're lost in a mess. But that makes it super clear. I'm not.
+
+Speaker 2:
+I, use
+
+Speaker 4:
+checkpoint.
+
+Speaker 1:
+Maybe we should explain it in the intro as well.
+
+Speaker 0:
+First, you need to explain the need because you, you
+
+Speaker 4:
+found the
+
+Speaker 0:
+need because you are running into confusion.
+
+Speaker 4:
+Yeah, so that's one thing they need to.
+
+Speaker 0:
+I think we should explain the need in lecture in lab one. And then somewhere later
+
+Speaker 4:
+come back
+
+Speaker 0:
+to because give them some time to digest.
+
+Speaker 4:
+Come on. It's
+
+Speaker 0:
+too motion lab one.
+
+Speaker 4:
+Or just give them a link like, oh, these are services you could use for that, like checkpoint, or be. And you're probably gonna run into these problems, but we
+
+Speaker 1:
+will not at least very important with thief.
+
+Speaker 0:
+But I would advise to make them aware of the problem, give them some time in between labs, and then a subsequent lab. Come back with the example of solution.
+
+Speaker 1:
+Okay, now I think we have assigned to work. I think from, I would say, let's get together at 5 30 and start at quarter past six or so. We have sandwiches in between. People can eat a little bit.
+
+Speaker 2:
+Which dates for this?
+
+Speaker 1:
+I think they are not fixed. And it makes it easier that we do it in the evenings because we have more freedom. I would prefer Wednesday. Is Wednesday a good day for you?
+
+Speaker 2:
+Yep. For me, any day is a good day as long as I know in advance.
+
+Speaker 1:
+Wednesday evenings?
+
+Speaker 0:
+Depends on the Wednesday, but in
+
+Speaker 1:
+general, yes. Okay, let's do the. Is there, or you cannot say that the bus, whether there's executive I
+
+Speaker 3:
+would have to ask the secretary to
+
+Speaker 1:
+check. Mostly Fridays and November, Wednesdays.
+
+Speaker 2:
+I have ACM of media in from 9th till the 15th.
+
+Speaker 1:
+Yeah, I'm also away at the beginning of. Yeah, I'm also away in that period.
+
+Speaker 2:
+Okay, so that has to be
+
+Speaker 0:
+after.
+
+Speaker 1:
+Yeah, or one before and then two after or so. That's also
+
+Speaker 0:
+good. One thing that came to my mind right now is that we are completely not touching, because we are doing it clawed code and things like that. We are not touching the AI infrastructure of the university. And I can think at least of one thing that could be interesting, that I'm doing that. I'm actually actively asking my bachelor students. To use our AI, Juva AI chat, to create a persona that I completely explain, persona is almost a skill, that I completely explain what it should, how it should behave. I call it a sub- Socratic teacher or the Socratic tutor, and the Socratic tutor is supposed not to tell them the answer, but to guide them towards deducing the answer. And I specifically ask my students to resort to this every time they run into questions and they don't have a tutorial teacher at the end. And I get good feedback from the students. And this is being deployed on our own infrastructure. So I, I don't know whether you find it kind of nice to also include our infrastructure in the course, or you rather not.
+
+Speaker 2:
+Uh, I'm, if I understand correctly, the UVA infrastructure is a proxy two clock.
+
+Speaker 0:
+Yes, but it's only prompting and API calls, no agents. So if you want to, uh, be more on the agentics base. But I mean, there is also things there.
+
+Speaker 4:
+Yeah, and it's continuously improving as well. So might
+
+Speaker 0:
+be. But you are the course owner. So I don't know.
+
+Speaker 1:
+Yeah, maybe we have to say because maybe sometimes inserts will come up. We also don't know the insert so well. And maybe it's also. But why can this not be done in UFC?
+
+Speaker 0:
+Well, if it is agentic, the reason is because JuvaChat does not offer agentic deployment. I mean, it's a prompt system, and there are also some APIs available to call on JuvaChat.
+
+Speaker 1:
+Some, some things could maybe be done in shape.
+
+Speaker 0:
+But there are things that we already can do that probably not everybody thinks about them. So that was just a question.
+
+Speaker 1:
+that I think we keep it a bit
+
+Speaker 0:
+Okay, we don't expand it further than this.
+
+Speaker 1:
+Maybe you write something down because in this introduction you can get lost of all the. How
+
+Speaker 2:
+long is my introduction?
+
+Speaker 1:
+All the things that you, I, I would say such an evening is then from maybe
+
+Speaker 0:
+seven to
+
+Speaker 1:
+nine? Six thirty to nine or so? And then you have a little bit more time for people that want to stay on playing.
+
+Speaker 0:
+Because at ten we are kicked out of the facility.
+
+Speaker 1:
+I would say two and a half hours. Try to do the interview in one hour. But the danger is that it becomes a bit dull,
+
+Speaker 0:
+the interview. No, but the introduction should also be the moment to set up the owner hardware.
+
+Speaker 2:
+I mean, I think that introduction is nicely done if you can. I don't mind also sharing my screen while I'm doing
+
+Speaker 1:
+introduction. And
+
+Speaker 0:
+they should also set up the things they need,
+
+Speaker 2:
+Set
+
+Speaker 1:
+up the things they need.
+
+Speaker 2:
+So I imagine it like checkpoints during the introduction. Okay, you finish chunk. Okay, how, where are we? Yeah, everyone. And then we're all there. You can just go and check.
+
+Speaker 1:
+then they should have some kind of paper that they could look it up again.
+
+Speaker 0:
+Oh, maybe beads, and then having a skill to translate beads into a narrative.
+
+Speaker 1:
+Yeah, that could be.
+
+Speaker 0:
+a way to bring beads.
+Because then there is a syllabus on the end, so you can have a skill to create a syllabus out of it.
+
+Speaker 2:
+There is that, or
+
+Speaker 3:
+but how
+
+Speaker 4:
+does beads help? Because it's just like sort of memory task list.
+
+Speaker 0:
+Yeah, it is more or less what happens during the whole course. Uh, I
+
+Speaker 2:
+think
+it's better not to look a bit similar
+
+Speaker 1:
+to a logbook or, yeah,
+
+Speaker 2:
+maybe it's better not to lock into a Just show them because I think for that skill specifically it's it's very useful to show them the evolution of how you get to using these because I started before with just writing everything in notepad. So I had a text document that the LLM would stuff, pull stuff into. This grows very much, which revel time becomes too long. Context grows, so I spend tokens for nothing. Then I said, okay, let's package this stuff, put it in Notion. Went to Notion, but then you hit the free limit. Then I think, okay, what do I do? Then you find an open source package that lets you use a database like PostgreSQL. And you put everything in PostgreSQL. The LLM fetches what it did last with a simple query. What was before ten thousand tokens, now it's five. Then you realize, okay, so now I need a structured way of keeping track of what I'm doing. Database is the way to go. I'm not a data engineer. I'm not the infrastructure guy. I need a service. I go to beats.
+
+Speaker 1:
+Maybe we write down a little bit what we want to do in the intro. Maybe you could, uh, think about it.
+
+Speaker 0:
+It sounds like a second course after this
+
+Speaker 1:
+Yeah, I mean, you can. The boundaries are limited of this.
+
+Speaker 0:
+But this course, can create awareness for the needs. So if in the end we want them to produce their own notes, which is maybe something reasonable and already quite doable on by only the whatever is left or just
+
+Speaker 2:
+skill.
+
+Speaker 1:
+But the nice, the financial dockbot exercise will nicely explain skill stuff. Dat is nice and they with references also, so they can also upload older papers. It learns also a bit from the style of the older papers. That's a nice exercise. And then your skill of An Lenin
+
+Speaker 2:
+unslop.
+
+Speaker 1:
+is interesting.
+
+Speaker 2:
+Unslopping is really cool. It also reduced.
+
+Speaker 1:
+Did you make it yourself?
+
+Speaker 2:
+Unslope if you put it in the, initializing screen.
+
+Speaker 1:
+They need unslop.
+
+Speaker 2:
+You know, my token consumption dropped by 20% just by unslop in the system prompt.
+
+Speaker 0:
+Because there were tokens being used to slog.
+
+Speaker 2:
+So, and then I gave it to all my team. So all of us that are using it dropped by the cost dropped by twenty, twenty percent. Did
+
+Speaker 1:
+you make it or did you get it?
+
+Speaker 2:
+It's, it's a very, I, I just wrote, I've been writing this in every project at the beginning. So then I said, let's make it a skill. When I put it as a skill, it became even better.
+
+Speaker 1:
+And then it trades on the output of things like this. What is this, uh, this checker of pieces whether you've used it?
+
+Speaker 3:
+Alternative.
+
+Speaker 0:
+You mean turn it in? It's not, turn it in, it's not really like an AI dinghy. It's more like, did I see this before?
+
+Speaker 4:
+It's more like a pledge of pledge.
+
+Speaker 1:
+It is also a module for AI, I think.
+
+Speaker 0:
+It's more play---- pla pla it's
+
+Speaker 3:
+plagiarism plagiarism
+
+Speaker 0:
+yes it's more have I seen this before type of thing
+
+Speaker 1:
+okay so I think we have assigned all the laps then we need probably to work it out a little bit later and maybe we make a next meeting in three weeks or
+
+Speaker 2:
+so why don't we do it a bit sooner
+
+Speaker 1:
+sooner two weeks
+
+Speaker 2:
+two weeks at least
+
+Speaker 0:
+And what is the intent in those two weeks that we already have drafted everything? We should have drafted.
+
+Speaker 1:
+are convinced, yeah, we are.
+
+Speaker 0:
+We should have drafted everything.
+
+Speaker 1:
+Can do everything.
+
+Speaker 0:
+Now, at least have a draft or fifth lecture, right?
+
+Speaker 2:
+mean, my goal would be to, uh, what we talked about, give you the outline of the introduction, all the examples, and come up with a functional approach. Our life that we need to get.
+
+Speaker 0:
+I think it's a good left.
+
+Speaker 2:
+Yeah, same should be for everyone.
+
+Speaker 1:
+For the others.
+
+Speaker 4:
+One question I'm still having with the course is like, uh, what, how far do we encourage students, either PhDs or later on, real students, to go with this? Because journals still have largely have the policy that you can use. LMs for writing for anything. I think thesis regulations still say, like, you can't use AI for writing. And now we're telling the complete opposite message, of course. We're saying, like, this is a great tool you can do. And maybe like, because we're giving the positive story, but of course, we can't teach everything in those three evenings. And if people are going to use this, they're gonna run into a bunch of more problems with memory. They're gonna have extra issues as well.
+
+Speaker 1:
+And we have to think about this story a bit. Yeah, like what think it's unavoidable that we do this. Many people are using it already, so we really need to do it. My story was always: we are telling this to you, not be, not because we want to encourage you to use all this. To be aware that it exists and also to understand where the weak points are. That's always my story. And I think all these things that you're mentioning, they will change in the forthcoming one or two years.
+
+Speaker 3:
+That is true, but should we give some attention to the policy we made ourselves?
+
+Speaker 0:
+It is, a very good question. And it's kind of heterogeneous because the default is indeed, for instance, for master programs, including the MBA data science, and that you are not allowed to use Gen AI for any written text you end in. But there are also master programs like data science and business analytics already. I will
+
+Speaker 1:
+write down an announcement of this course. And I will share that also before I send it out. And in that announcement, we make one sentence or two sentences about what you were saying. The positioning of this course.
+
+Speaker 0:
+And it's not for students yet. This
+
+Speaker 4:
+is
+
+Speaker 0:
+first situation for colleagues.
+
+Speaker 4:
+And maybe when we talk about something like this library tool, we should also give, like, speak about these limitations, right? And not, cuz if you have. A perfect tool that scans all the literature for you and summarizes it. It's very tempting to never read literature anymore. But I think I've already found out that that's not the solution. Like, you're not gonna, you're gonna unlearn skills, so you have to, yeah, put effort into learning the skills that you want. And I also heard someone say, like, I want to remain able to write well. So she just put a lot of effort even. Though AI could do it better for her, but she was like, I'm gonna wrestle through the writing because I want to be able to do it still. So maybe when we lecture, we can also give these side notes, like don't just throw it onto
+
+Speaker 1:
+everything. And and also what, in my view, still the way of working opinion is of many boys here. Although they might not be completely almost advanced with air.
+
+Speaker 0:
+But I think that you. I think you, I think that you are, we are missing one point that you made. You want to have in the first cohort for this course those that are actually not doing anything, ideally. And I think that this awareness is important from the beginning. So I think that sharing the awareness that whatever you do after we invite you to consider these new opportunities should not make you worse. It should actually make you better. So if you have something that reads stuff for you, you should see it as a way to find the interesting stuff to read for yourself. And not to avoid the reading, but to get good reads.
+
+Speaker 2:
+A lot of it comes from also being able to read your own work. I have a very good example from yesterday. I had a meeting with Yanam and Ines and a guy from ING. They produced a 40-page paper.
+
+Speaker 0:
+easy nowadays.
+
+Speaker 2:
+Yeah, and they gave it to me a couple of weeks ago. They said, okay, this is more in your field. Tell us what you think. I had so much trouble reading through this. Paper that it took me a whole week just to finish it. There is no way a human could have written this.
+
+Speaker 0:
+Now you have a skill. Soon you have a skill that will create a journal art, a newspaper article out of it.
+
+Speaker 2:
+Yeah, and then I'm kind of, uh, we have a meeting, and in the meeting I try to provide a review. And I say, okay, so I review this paper, and it's clear that this is actually three papers. There's three different research questions introduced through the. So it's clear that as they were working, they were adding stuff, more questions, more ideas at different stages in the paper, which no human would ever do. Because when you are writing a paper, you have a research question and you know your story. So not only that people forget how to read, and they also forget how to read their own work because to them nothing flagged as This is strange. To me, this was a, I would never read this paper. So there is, there's
+
+Speaker 0:
+But the reason why we have these experiences to share, and we all know yes, yes, is because we are ahead of our intended public. So I think that it is our responsibility to kind of steer them in not to making common mistakes. So I agree with you. I think it's good to have some kind of awareness here as well.
+Let's see where we can put
+
+Speaker 1:
+Plus, we'll take a look to the availability of the room. We also need this electricity, so I don't know whether we need
+
+Speaker 3:
+snewers
+
+Speaker 1:
+for link snewer stuff. We need the subscriptions. We will discuss that.
+
+Speaker 0:
+Are we also gonna feed ourselves on this, on the people attending? Sandwiches or something?
+
+Speaker 1:
+Of course.
+
+Speaker 0:
+Oh, of course.
+
+Speaker 1:
+Yeah, that is the idea between 30 and 6 30.
+
+Speaker 0:
+Yeah, because you are listing what we need, yeah. That was not there yet.
+
+Speaker 1:
+we, we do the somewhere.
+
+Speaker 0:
+Okay, okay,
+
+Speaker 1:
+Cannot
+
+Speaker 0:
+be pizza. I don't think you would not fall asleep
+
+Speaker 2:
+after a sandwich.
+
+Speaker 0:
+no, we give them the sandwich, we have the sandwich before they go home.
+
+Speaker 2:
+Yeah, keep keep them hungry, keeps them on edge.
+
+Speaker 1:
+But I think it will be very nice this. And maybe the first course some.
+
+Speaker 0:
+Yeah, but then we are still.
+
+Speaker 1:
+Probably not optimal. Then are.
+
+Speaker 0:
+Then we are still, we still perfecting it. This is cool. Really cool.
+
+Speaker 1:
+Looking forward to it.
+I will distribute some notes, but I will also distribute the
+
+Speaker 0:
+announcement. Maybe it's a very strange question. We have like this kind of mandatory credits that we have to invest on our own education. Can we also allow the people that take this to. Because that's a kind of added incentive for them to consider taking it.
+
+Speaker 1:
+How is this arrangement?
+
+Speaker 3:
+For PC students?
+
+Speaker 0:
+for us, I mean, we are forced to spend like, I don't know what this is, a year or even.
+
+Speaker 3:
+Oh, that's a new arrangement. I don't know about it.
+
+Speaker 0:
+Maybe we can actually arrange that. People that do this already are contributing to their own, uh- Learnings in such a way that it contributes to that obligation. There is an obligation on us.
+
+Speaker 3:
+Yeah, I can check. I'm not sure if it will be enforced to that
+
+Speaker 1:
+level.
+
+Speaker 0:
+But still, still can be an additional reason for them to take it
+
+Speaker 1:
+seriously. Give everybody some, uh, certificate.
+It's probably not so much necessary if we do it once, but I think we need to-
+
+Speaker 0:
+Now you are talking about us or about the public? Oh, okay, okay.
+
+Speaker 1:
+That we get some hours for it. We have to look into that. If we do it once, it's fine. But I think it will be, can be that there is a large demand.
+
+Speaker 0:
+I think we should protect more Marlane than Hus because, uh, well.
+
+Speaker 1:
+That is true. For Marlane, it's also a nice way to. Get you a blue shirt, Frank.
+
+Speaker 0:
+A date, a date you go
+
+Speaker 1:
+around.
+
+Speaker 4:
+I would otherwise not in any way.
+
+Speaker 0:
+We offer you a great date, a great evening. The things will never be the same afterwards.
+
+Speaker 1:
+I think we see once a semester in this physics. I'll make a small Report, I will distribute the announcements also. can give some input again on it. Place it, I was forced to place it in the newsletter. And what is then the kind of form? Is it Google Forms or Microsoft Forms or Qualtrics or
+
+Speaker 3:
+whatever this? Let me check with you the. I think Qualtrics anymore. I think Microsoft Forms or something. But she has the
+
+Speaker 2:
+other.
+Uh, I, I didn't mention a slightly beginning, but then the moment passed. So all my meetings, uh, are recorded. So I can just give you notes from the screen if you want.
+
+Speaker 1:
+And then you make a small, uh, you can say, yeah, yeah. Try, give it to me. Then I can use it as input for my, uh.
+
+Speaker 2:
+If anybody wants the same thing, it's called a pocket. I have a discount on it. Half.
+
+Speaker 0:
+When you share the notes, include that reference. I forget if you just telling it to
+Oh, yeah, of course. That's a self-fulfilling prophecy.
+
+Speaker 4:
+truly optimized your workflows.
+
+Speaker 2:
+Even my phone calls are recorded.
+
+Speaker 0:
+And do you feel your cognition is declining?
+
+Speaker 1:
+How do you do that?
+
+Speaker 2:
+It's a device. It's called Pocket. It hooks to your phone, and then it gets the vibrations from the speaker, and this is how it recognizes what people are doing.
+
+Speaker 1:
+That is a device. It's a
+
+Speaker 2:
+device used for the phone calls? No, for you it will be 120 euros.
+
+Speaker 3:
+You, my
+
+Speaker 2:
+friend. Great deal.
+
+Speaker 1:
+I was looking at it. Samsung blocks it in some way that you do this?
+This way, it's probably for. Yeah, it's a pocket, takes notes in the real world. Is that a startup or
+
+Speaker 2:
+is a startup? I was one of the early investors. So I did.
+
+Speaker 0:
+That's how you can get discount prices.
+
+Speaker 2:
+50%.
+
+Speaker 1:
+bought 10 for
+
+Speaker 2:
+me, my sister, my mom, my dad, my wife, everybody has one. And we share notes. So it's also a bit stupid.
+
+Speaker 1:
+Hey, but it's a serious thing. Uber, Amazon.
+
+Speaker 2:
+Yeah, yeah, It's a friend of mine. Uh, he.
+
+Speaker 1:
+DoorDetch?
+
+Speaker 2:
+Started this.
+
+Speaker 4:
+And then it gives you just a notes raw, or does it summarize it?
+
+Speaker 2:
+You get the transcript, you get the audio file, you get the summary for a different type of agenda. So let's say you're talking about a feature with engineering team, you get GitHub issues. You're talking to business stakeholders. You get like, uh, um, what was it?
+
+Speaker 0:
+Executive summary,
+
+Speaker 1:
+But you have this device now here.
+
+Speaker 2:
+No, I have the app, but I also have the device in my pocket. I can bring it.
+
+Speaker 1:
+But you can also use the app. why do you need the device if you have the app?
+
+Speaker 2:
+To record phone calls and to keep it offline. So for me, it's kept on the device itself. It's 64 gigabytes. But you can also just use cloud. And then if you go to cloud, you have to pay 20 euros a month. I don't want to pay. So I just keep it for cooking.
+
+Speaker 4:
+And does he have some cybersecurity people on board as well?
+
+Speaker 3:
+He says he does, but
+
+Speaker 2:
+I don't trust him at all. So I don't just put anything there on the cloud. Just keep it on your device.
+
+Speaker 4:
+Oh, is it? Ah, I see.
+
+Speaker 2:
+And then you can use your own subscription to analyze your stuff. So I use my own cloud, not their cloud.
+Helps.
+
+Speaker 1:
+You see, in these new times, you can also spend thousands of dollars.
+
+Speaker 0:
+Oh, yes, you
+
+Speaker 1:
+can.
+
+Speaker 2:
+It's nice. I have like a, you know how there is this service called Jellyfin? Jellyfin is a streaming service for your home. So you can download your
+
+Speaker 1:
+shows in an
+
+Speaker 2:
+illegal way and then stream it to your device at
+
+Speaker 3:
+home.
+
+Speaker 2:
+what I do is, uh, some shows that I cannot find on Netflix or anywhere else, I just ask my chatbot at home, which is running on a Mac Mini in my basement, just say, Hey, I want to download the ID crowd and I want to watch it tonight. It goes, downloads it, and I have it on my TV in Five hours all the seasons. Pirating is not legal, of course, but if you can't find
+
+Speaker 0:
+It's like that, uh, that time that everybody was a bit, uh, bit torrent, bit torrenting everything is completely torrent. I've been
+
+Speaker 1:
+I've been there. Two long games, I But they're usually not so good, uh, because they come from Russia or so.
+
+Speaker 2:
+You need a paid tracker. So there is trackers that you can buy for twenty bucks a year, and just have.
+
+Speaker 0:
+Well, let's just hope that our public on our course will be interested in other content. But it's good to know that you can get all the content everything in the
+
+Speaker 1:
+world. Apparently, you know how to do it.
+
+Speaker 3:
+Exactly.
+Dat is voor de youngste generation, right?
+
+Speaker 1:
+Gaat een beetje proef zien voor alleen.

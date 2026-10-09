@@ -1,0 +1,7 @@
+.DS_Store
+
+# Meeting audio stays local (large, and contains participants' voices)
+recordings/*.m4a
+
+# Installers downloaded by scripts/setup-windows.ps1
+scripts/installers/

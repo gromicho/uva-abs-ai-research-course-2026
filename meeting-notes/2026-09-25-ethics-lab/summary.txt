@@ -1,0 +1,31 @@
+Imported: Joquim Discussion
+
+Overview
+The group met to finalize the curriculum for an upcoming AI research course, focusing on the transition from theory to practical application. The discussion moved from the ethics of resource consumption to technical lab demonstrations involving web scraping and prompt injection, followed by a status update on the Associate 2.0 research project.
+
+Agreement Summary
+
+Curriculum & Ethics Lab
+• Applicative AI Ethics: The course will pivot from general AI safety lectures to practical ethics, specifically the responsibility of those with significant computing resources and the impact of draining nonprofit data (e.g., WikiArt).
+• Scraping & Legality: The group agreed to demonstrate both legal API usage (Rijks Museum) and "shaded" scraping practices. A geospatial example—manually extracting Google Maps coordinates vs. using the official API—will be added to illustrate common but technically illegal practices.
+• The "Good Citizen" Framework: The importance of robots.txt will be framed as a social convention of the internet, akin to not throwing garbage in the street, rather than just a technical barrier.
+• Hands-on Demos: Students will compare Claude-generated scraping code against professional-grade scrapers. Live demonstrations will include prompt injections and instructions found in malicious packages to show how to bypass code barriers.
+• Curriculum Flow: The AI disclosure inventory will be treated as a "cliffhanger" awareness topic, setting the stage for later sessions with Marlane.
+
+Project Associate 2.0 & Personal Update
+• Data Collection Incident: Georgi shared an update regarding a fracture sustained during data collection for the Associate 2.0 project. The project involves high-frequency life-logging via wearable cameras and sensors, necessitating strict adherence to European privacy regulations (avoiding faces and license plates).
+• Recovery Timeline: The injury requires a six-week recovery period, during which Georgi will remain somewhat stationary but operational for meetings.
+
+Participant List
+• Georgi: Assistant Professor at UvA Business School; CDO with expertise in machine learning, computer vision, and high-scale software engineering.
+• Kim: Collaborator and lead for the introductory and ethics portions of the curriculum.
+• Steven: Team member joined for the project update and introductions.
+
+Lab 1: Scraping & Ethics Workflow
+
+• Setup -> Legal API Demo (Rijks)
+• Legal API Demo (Rijks) -> Illegal Scraping Discussion
+• Illegal Scraping Discussion -> Geospatial Case Study (Google Maps)
+• Geospatial Case Study (Google Maps) -> Hands-on WikiArt Scrape
+• Hands-on WikiArts Scrape -> IP Limit/Robots.txt Analysis
+• IP Limit/Robots.txt Analysis -> Claude vs. Professional Scraper Comparison

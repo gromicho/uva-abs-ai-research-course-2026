@@ -1,0 +1,500 @@
+Imported: Joquim Discussion - Transcript
+
+Speaker 1:
+H to
+
+Speaker 0:
+my memory are welcome. Thank you.
+
+Speaker 1:
+Yes, I will, send you then like the same thing I sent you for the others.
+
+Speaker 0:
+Very useful.
+
+Speaker 1:
+So then we have two questions under the ethics: like, what is your responsibility?
+What is responsibility of people that have resources?
+This is the next. Yeah.
+So this is not, we have to tell them this is not AI safety lecture.
+So this is more, uh, on using AI like an applicative thing.
+Something they will encounter in the versions.
+And explain to them what they would have by the end of the lab.
+So what they will be able to do.
+Then comes the idea.
+
+Speaker 0:
+And I also saw Roberts. Robots. text being mentioned because actually Marky did say that that should be mentioned. But you are gonna explain that indeed.
+
+Speaker 1:
+Yeah, so this is just like for for you, this presentation.
+This is not what we're gonna present.
+
+Speaker 0:
+Yeah, just those. I think it's important that you remember. Remember that because Mark Mark also said that we should say something about all those kind of attempts of people to engage with the complicity of LLMs on on accepting papers. Are you also gonna touch on that or?
+
+Speaker 1:
+I don't understand the.
+
+Speaker 0:
+So there are kind of white, white ink type of ways to tell LLMs to prompt, inject prompts on LLMs that do automatic reviewing.
+
+Speaker 1:
+That's the third point.
+
+Speaker 0:
+Very good. Oh, you remember all these things. You're amazing.
+
+Speaker 1:
+I, I try.
+
+Speaker 0:
+Or your pocket remembers all these things.
+
+Speaker 1:
+Pocket remembers.
+I have like a very good system of keeping all the balls
+in the air, and it helps me.
+
+Speaker 0:
+I was never very good on staying inside the lines dwelling a conversation. Let me get out of the lines to say that I'm really happy that you joined us.
+
+Speaker 1:
+Thank you, Kim.
+I'm, uh, I'm also very happy to be here.
+For me, this is a breath of fresh air after industry.
+But
+
+Speaker 0:
+you bring fresh air to us as well.
+
+Speaker 1:
+Yeah, that's right.
+I like that.
+There's a lot of potential here.
+I think we should, push this forward.
+So I hope that I get this.
+
+Speaker 0:
+I will close this bracket right away, but first I want to say, tell me how I can help there.
+
+Speaker 1:
+Yeah, of course.
+Uh, maybe we have another meeting for that.
+Yes,
+
+Speaker 0:
+that's the invitation I like to make now, that other meeting, but I will count on you to remind me.
+
+Speaker 1:
+I, I will, definitely do so.
+Okay, thanks.
+So because we have very limited time.
+Um, start with the hands-on part.
+In the hands-on part, I think half an hour, twenty-five minutes to half an hour of
+creating the let's The overall framework of what we're going to scrape.
+For the Reichs Museum, I've already done it before.
+I have all the code necessary, the official API and API key, so I can show them how it works legally versus illegally.
+I want to show you
+
+Speaker 0:
+can also demonstrate the illegally side.
+
+Speaker 1:
+I'll do both sides.
+And then for B, I can show them
+how what it looks like to scrape something that's willing.
+And giving information.
+
+Speaker 0:
+Sorry for interrupting. I don't want to derail this. This is amazing. Please go on like this. I want just to share that not from art but from geospatial data, I face similar challenges. So for instance, the translation of a postal address to coordinates, geocoding, at the richest Supplier is probably Google Maps, but they write very clearly on hidden documentation what you can and you cannot do. So actually, our students all find a way of going to the Google Maps web interface, finding the point of interest, doing write mouse menu and copying the coordinates. It's illegal. They don't know, but it is illegal.
+
+Speaker 1:
+Use it.
+
+Speaker 0:
+So sometimes just knowing,
+
+Speaker 1:
+yeah,
+
+Speaker 0:
+whether it's legal or illegal is a very shaded area.
+
+Speaker 1:
+it's kind of great.
+Just
+
+Speaker 0:
+because you from the point of view of art, are you also gonna kind of tell people how to figure out what they can do?
+
+Speaker 1:
+Yeah, I'm trying to give like a very rigid framework.
+I'm trying to say there are many warning signs that Come up every time you want to get something that you shouldn't, even if it's possible for other reasons, like some other situations.
+
+Speaker 0:
+Like the coordinates from Google Maps, it's very easy.
+
+Speaker 1:
+Google Maps, yeah, this is a very good example.
+So we can actually add it here.
+I can try to find
+
+Speaker 0:
+maybe, maybe we can alternate if you are doing it together that at some point you finish this one and I come with a very small one which will be more mundane.
+
+Speaker 1:
+It's probably more
+
+Speaker 0:
+mundane.
+
+Speaker 1:
+I think we can stop it here and
+at this point.
+No, no,
+
+Speaker 0:
+We will have a split in time, and I think I will need much less because you do most of the groundbreaking apart, telling a lot of things that are important for everything from the point of view of indeed art scraping. And then I had another example from the geospatial type of corner. Just for them to be aware of the fact that is my learning objective is this one. They think maybe, oh, I'm not doing anything with art, so I'm not, I'm safe. And I want to make them aware of the fact
+
+Speaker 1:
+much broader.
+
+Speaker 0:
+It's much broader. Will this work?
+
+Speaker 1:
+Yes, let's definitely.
+Our next slides, and then we go through the slides together so we find an ideal moment where to do it.
+
+Speaker 0:
+Thanks, Georgi.
+
+Speaker 1:
+Then, uh.
+I would like them to run this themselves.
+Everybody's gonna have quote quote already set up.
+So they should start interacting with it and
+see how it goes.
+
+Speaker 0:
+I just approved the request of getting all these keys.
+
+Speaker 1:
+Yeah, perfect.
+And then they can scrape a little bit and maybe have a discussion here, talk about, uh, see each individual member or group how, how they are, how they're doing, and
+Figure out all the different limits that they hit.
+We will hit a limit with Zikyard on the IP address because they all come from the same IP address, so the IP address is blocked.
+That's also a good discussion point.
+For us, we would need to explain why RobosTXD,
+this is what Mark would like.
+Why mechanisms like Robot.
+They are important and they should stay in place.
+They
+
+Speaker 0:
+were there already before before LLMs. Exactly. They were already robots before LLMs. But they were kind of more maturistic.
+
+Speaker 1:
+Yeah, and it was, so it's part of the
+culture of the internet and the conventions we abide to.
+Also, like society, you don't throw garbage.
+You can throw garbage in the street, shouldn't.
+
+Speaker 0:
+Traffic signs, you all have traffic signs. Of course, that you can park on that pavement.
+
+Speaker 1:
+And some things have repercussions, some don't.
+The ones that don't, if you follow them, that makes you a good citizen member of society.
+
+Speaker 0:
+Your storyline is perfect. So
+
+Speaker 1:
+what?
+Then you say, again, if it's, allowed,
+does mean it's free.
+So there are communities that talk about these types of
+situations on how much, um.
+Does it cost?
+How much can we strain free resources?
+So just because WikiArts is free to scrape
+doesn't mean it's free for them.
+So we have to also be mindful of how much resources we drain from nonprofit organizations that actually give us data and knowledge, and this is something to be mindful of.
+Then we go through a scraper, like a scraper that actually takes into account
+Uh, the different aspects of Viking.
+
+Speaker 0:
+This raises a question in my mind. GitHub is full of illegal code, which is very handy.
+
+Speaker 1:
+Yeah, many, many.
+
+Speaker 0:
+How is that being attempted to be moderated? Is there any attempt to moderate? No, because Wikipedia is moderated.
+
+Speaker 1:
+I can make a website now about making bombs, and it can call it How to Make a Bomb and host it online.
+
+Speaker 0:
+There is no attempt to moderate that.
+
+Speaker 1:
+Oh, some government agency at some point will come and say, hey, this is, illegal.
+You shouldn't spread this type of information and seize the website, but that will take a long time.
+
+Speaker 0:
+But it's still wild west over there.
+
+Speaker 1:
+It's a little bit wild west. Cool. Uh,
+then I will ask them to compare what they, uh, came up with in the previous
+In the previous iteration, so we did scrape ourselves, uh, with Claude,
+and then now let's let's compare what Claude made versus what a professional made for this specific purpose.
+Oh,
+
+Speaker 0:
+that's amazing.
+
+Speaker 1:
+Yeah, so kind of get both sides of the.
+Yeah, I'm happy you, you,
+Uh, and then, uh, so Journal AI disclosure
+inventory.
+So you kind of have, uh, this is what we talked about.
+What I think should be more in the
+Marlan part.
+
+Speaker 0:
+I will, consult with Marline.
+
+Speaker 1:
+Uh, because it, it can be, there are journals that talk about AI art and stuff like that, but I don't know if this
+is not hurt to
+
+Speaker 0:
+do it twice, but to do it very thin here. Just awareness.
+
+Speaker 1:
+It can be.
+Because this comes
+
+Speaker 0:
+before the Marlane one, right?
+
+Speaker 1:
+Uh, this comes in the
+
+Speaker 0:
+curriculum
+
+Speaker 1:
+before the Marlane.
+So I think the awareness, the
+
+Speaker 0:
+awareness like a kind of a cliffhanger for later.
+
+Speaker 1:
+Because that's the
+
+Speaker 0:
+same group, right? We have the same students all over. Yeah.
+
+Speaker 1:
+I, have like a good, um,
+good exercise for, for that.
+So basically, within the prompts, we're going to, uh, inject
+an instruction From an image that is scraped on how to fool the robot TXT.
+So this is kind of manual intervention.
+We're gonna add this.
+
+Speaker 0:
+But many things are gonna be done live. What, how big is the chance that what you have seen working in preparation will work differently during?
+
+Speaker 1:
+Very small.
+I will, make sure to to
+to have the right resources to make this.
+Proper.
+In case my prompt injection gets seized, I also have other ways of doing it.
+So it's important to demonstrate.
+
+Speaker 0:
+I truly agree.
+
+Speaker 1:
+Then I'm gonna show them different.
+And
+
+Speaker 0:
+even a failure is a success because if the prompt injection that works while preparation gets seized, it's
+
+Speaker 1:
+also
+
+Speaker 0:
+a demonstration.
+
+Speaker 1:
+Yeah, exactly.
+And I'm going to show them.
+What malicious packages look like in the in
+the instructions.
+I can tell them, I can show them how
+parts of code become prompts and what we can use to escape the code
+barriers.
+Then also talk about permissions to their agents.
+This is raising a
+
+Speaker 0:
+more metaphysical question in my mind. Mark has announced the course during the drinks of the school as being primarily aimed to those that are actually quite kind of oblivious of all this. I'm not sure whether our start in the very first day is gentle enough.
+
+Speaker 1:
+This is after the intro.
+Intro is
+
+Speaker 0:
+the intro needs to be gentle, otherwise
+
+Speaker 1:
+very gentle.
+
+Speaker 0:
+So who is actually assigned to do the intro?
+
+Speaker 1:
+I'm doing the intro.
+
+Speaker 0:
+And you are gonna be gentle. Trust you.
+
+Speaker 1:
+I have to go.
+I'm sorry.
+
+Speaker 0:
+But I, uh, if you are seeking a, if you are seeking approval on the line, I fully approve the line, and I think the details will come. Okay. Hey, I will
+
+Speaker 1:
+see you.
+
+Speaker 0:
+Of course
+
+Speaker 1:
+you take a lot.
+Then now let's get this.
+That's okay.
+Nice to see everyone.
+Hey, Steven.
+Welcome.
+
+Speaker 1:
+Just a second.
+
+Speaker 1:
+Yes, one do one.
+
+Speaker 1:
+Ah, yes, I'm there.
+It's gonna be like this, sir, for a while. Sorry about it. Are you in, uh, I can explain it what I'm doing. Uh, yeah, I am, uh, I can, uh, show you this setup.
+
+Speaker 2:
+Yes, we cannot move our meetings November?
+
+Speaker 1:
+Yeah, till second of November, I am not really supposed to. I can be a little bit more upright. See, this is like festival.
+I really think we're the point, but is this okay or it's perfect?
+And I can do some minutes, you know, like, uh, it's kind of weird, uh, during the music I have to jump and somehow. No, it's all good, uh, it doesn't do much paint. It sounds weird on a paper and uh, sounds, uh, it's pretty much the worst fracture you can get, you know, like, but
+
+Speaker 2:
+how did you get
+
+Speaker 1:
+Yeah, um, we are importing this new data set, uh, associate 2. 0, uh, life loading, basically recording all aspects of life. Uh, for, um, it's good for, uh, things as interventional timers, but also for, uh, speed applications. And, uh, yeah, you have disvarable cameras, all sorts of cables, all sorts of sensors, and because of European privacy. Regulation, uh, it's very important that you don't capture people, license plates, anything. In the middle of nowhere in an island, but even there, you end up seeing people sometimes. Some we tried to avoid somebody, not catch a person because it's personal nice, and secondly, when you get to a nice. And went around the small field, there was a small jump, uneven surface or something. Uh, throughout the TBI, PDI control and yeah, and I was training before on the training, so that probably didn't help, uh, ten years ago. But on the other side, and it was not that brutal. Give probably numbers, but uh, it was just like save a link for some time, uh, because they didn't even realize, uh, you know how They send you to physio, so I refuse for pay months of the daily life that I actually brought it. So I will grow it for good. So it's
+
+Speaker 1:
+not for good.
+It's only, it's six weeks.
+In six weeks, you will be starting to move.
+So that's nice.
+I tried.
+What we're funds for.
+
+Speaker 1:
+So I, can see the question.
+
+Speaker 2:
+Well, it's good, uh, that we keep get meet up again. Awesome. Yeah, because in the meantime we have, uh, approved budget from our direction.
+
+Speaker 1:
+Great.
+
+Speaker 1:
+That's wonderful.
+
+Speaker 2:
+We can now start to talk a lot of your executive.
+
+Speaker 1:
+Would you like to give an introduction so you can start off the meeting, or
+should we just dive into it?
+No,
+
+Speaker 2:
+no, no.
+
+Speaker 1:
+I'll start because I think we will know each other as
+members here.
+So my my name is Georgi.
+People in the Netherlands will be from Georgi, because it's easier to pronounce and kind of more memorable, kind of playful.
+I come from Macedonia.
+I came here nine years ago to do a PhD
+at the University of Amsterdam, where I worked with Marcel Waring and Sterling Rudinas
+in in research.
+So my expertise is on machine learning and computer vision combined with software engineering and scalable practices.
+For software engineering.
+Since then, I spent some time in industry where I had my own company, which I exited
+and then founded some other companies.
+In the meantime, I joined a third company,
+and I've been doing a lot of machine learning AI stuff for the past ten
+years in Amsterdam.
+I'm based in Amsterdam.
+Here is where this is.
+Where I live.
+I recently became Dutch and I do understand Dutch to a degree where I'm comfortable reading it, but I still do not speak because nobody speaks Dutch to me ever.
+And my goal for this year is to become better and actually live
+to my true potential as a Dutch citizen and speak Dutch starting from January.
+
+Speaker 2:
+we'll
+
+Speaker 1:
+see how that's
+
+Speaker 2:
+January.
+
+Speaker 1:
+Yes, that will be perfect.
+I would love it.
+
+Speaker 1:
+And you are also assistant professor.
+
+Speaker 1:
+Oh, yeah, I forgot.
+I'm also assistant professor at the University of Amsterdam Business School, where I work with Stefan and Mark and Joachim,
+um, on analytics, AI for analytics, uh, and in business, right?
+And, um.
+Yeah, my my focus is mostly on AI alignment and safety,
+where we try to figure out the proper ways to
+guard real access to information from LLMs, which is
+very much aligned with this project.
+Did I forget anything else, Devon?
+
+Speaker 1:
+No, no, Just to say, uh, yeah, Gabi in Java was a One of our best software engineers, and he has a very unique skill set in a sense that also in this, oh, and that's really what makes him a really nice addition to our department and the faculty. I mean, lots of us do things with AI, this and that, you know, like aspect. Everybody kind of has some kind of slice of a cake, you know, this. specialize very narrowly, but in Garby's case, he gets very unique profile because in also companies that he works for, he's building these very large scale solutions that are capable of handling, for example, millions of queries daily, you know. And when you start talking scalability, when you start talking about problems of scale in general, you know, very particular challenges arrive, you know, like practice that sometimes, you know, both academia and practice, uh, you know, and it's just like some a little bit later on. So actually this is a very, uh, useful addition. So, uh, uh
