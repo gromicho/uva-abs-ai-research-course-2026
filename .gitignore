@@ -5,3 +5,8 @@ recordings/*.m4a
 
 # Installers downloaded by scripts/setup-windows.ps1
 scripts/installers/
+
+# Lab 4 data is downloaded by labs/lab4-replication/get-data.ps1
+labs/lab4-replication/data/
+labs/lab4-replication/njmin.zip
+labs/lab4-replication/.venv/
