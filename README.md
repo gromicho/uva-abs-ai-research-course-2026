@@ -32,7 +32,7 @@ Meeting folders and recordings use ISO dates (`2026-09-15-all-hands`).
 
 Lab 2 material is in `reading-materials/Lab2-Privacy-Ethics-Assignment.md` and `slides/Lab2-Privacy-Ethics-Slides.html`. The setup scripts are in `scripts/`.
 
-Lab 4 material (draft) is in `reading-materials/Lab4-Paper-Replication-Assignment.md` and `labs/lab4-replication/`, with optional extensions on Lean proof auditing, Paper2Agent and an end-to-end capstone example in `reading-materials/`.
+Lab 4 material (draft) is in `reading-materials/Lab4-Paper-Replication-Assignment.md` and `labs/lab4-replication/`, with an end-to-end capstone example in `reading-materials/`.
 
 ## Meeting agendas
 

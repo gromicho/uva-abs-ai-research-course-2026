@@ -37,7 +37,7 @@ Why it works for a 90-minute exercise:
 |---|---|---|---|
 | 1 | Codex, translating `check.sas` to Python | All five Table 4 entries match; balanced DiD 2.75 | ~4 min from download to results; a full run takes ~2.6 s |
 | 2 | Claude Code, independently, without seeing run 1 | Same five matches; also explained the discrepancies below | ~1 min to the first matching run |
-| 3 | Paper2Agent packaging of run 1 | Worked, but added nothing to understanding (see `Paper2Agent-Optional.md`) | ~22 min |
+| 3 | Paper2Agent packaging of run 1 | Worked, but added nothing to understanding; not used in the course | ~22 min |
 
 These are single runs by an experienced user, not student completion times. `labs/lab4-replication/facilitator/reference_solution.py` is run 2. It stops with an error if any value differs from the paper, and it does fail when the part-time weight, the model (v) controls or the treatment of closures is changed.
 
@@ -66,8 +66,6 @@ One page per participant or pair: results reproduced, modelling choices and wher
 
 ## Optional extensions
 
-- `Lean-Proof-Audit-Optional.md`: auditing a machine-checked "proof" (theory demo, fits Yenan's part).
-- `Paper2Agent-Optional.md`: turning a replication into a tool an agent can call (short demo only).
 - `Capstone-Example-Ocean-Cleanup.md`: an end-to-end optimisation research project done with agents.
 
 ## Open items for the leads
