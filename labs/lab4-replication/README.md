@@ -15,3 +15,4 @@ py -3.12 -m venv .venv
 | `requirements.txt` | Pinned NumPy and pandas, tested with Python 3.12.14 |
 | `starter.py` | Participant scaffold with the tasks as TODOs |
 | `facilitator/reference_solution.py` | Full replication. Exits with an error unless all five Table 4 entries match. Run: `python -I facilitator/reference_solution.py data/public.dat` |
+| `slides/` | Joaquim's 60-minute deck for evening 3 (Beamer source and PDF), the one-minute podcast, and the dry run behind the Checkpoint slide. See `slides/README.md` |
