@@ -1,0 +1,754 @@
+New Recording 24 - Transcript
+
+Speaker 0:
+Well, now because it's listening to you through the speakers of my laptop, I think we don't have to.
+
+Speaker 1:
+I think you are all a common, speaker.
+
+Speaker 0:
+Yeah, and I will, I, I will add, uh, the, the names in the first few sentences, and then it will, be fine.
+
+Speaker 1:
+Okay.
+Now maybe at first start, we have very, we have many
+subscriptions like 70.
+I subdivided them in two groups.
+So we need to repeat it.
+We have to see when we can do that.
+Hopefully, we can do it this year.
+I will try to schedule.
+That's an action point for me.
+I will try to schedule a next meeting
+this year.
+There were even more people than that, but I asked to close it because, I mean, we have also limited capacity,
+and I hope also that more than 35
+is impossible to do it.
+I, uh, asked 35 people to admit because I'm thinking then that it will be 28%.
+There will always be people that will not school.
+So that is what we have.
+Then I arranged that you all get 10
+BCU.
+Boss has put that in plan.
+We would say that is for the first time.
+Whether we ask, I mean, you definitely get it also for the second time, but maybe not 10.
+We are in discussion bit on how we will do that.
+And I think the I what I did was
+I admitted in the first group as many people that have an UVA
+managed machine as a private managed machine only
+tested on the UVA managed machine.
+Everything that we want, and that is, I think, closed code.
+It is Python and it is GitHub, where that is ready.
+And yeah, the first impression is that it is yes,
+but it can always change.
+Because he tested it now.
+There can always be settings changed, meanwhile, we never know that.
+So if that is happening, we can always work in groups of two.
+Uh, because on the UVAM machine it's another problem, all this stuff.
+Right.
+Yeah.
+And then, um, maybe you're, we, we need to define a repository
+where you put all the stuff in.
+Because I saw, I have now a link, Arlene
+got a link, other people got a link.
+We have probably to make one place where everything is.
+
+Speaker 0:
+Yes.
+
+Speaker 1:
+Could you arrange that?
+
+Speaker 0:
+Of course, I already have a repository for, uh, the script for installing everything, and then there's the transcripts of our meetings so far in that repository. We have the intro slides in that repository, and the second, uh, day, uh, for, for,
+
+Speaker 1:
+we also will close your slides a bit to you, um,
+after the meeting, eh?
+Because it's good to not to have too many
+Separate emails within our servering, give the URL
+to that repository so that we can put all our
+sessions in.
+And then we have to give, uh, instructions
+to, uh, the participants.
+Uh, we have to Maybe your technical instructions during,
+like what they have to install and pre-install.
+How do you want to do that?
+Can you make a kind of big file
+that is written and everything is installed, or is that difficult?
+
+Speaker 0:
+No, that is already done. So I did, it on the Windows UVA managed machines. So this is just one file. I think I sent you a video on how it runs.
+
+Speaker 1:
+But it is not so that during this batch file, the user has to say yes to what's
+
+Speaker 1:
+a PowerShell of. ps1. Am I right?
+
+Speaker 0:
+Yeah, he the user doesn't do anything. The user just Runs it and it runs everything for them. It, uh, we also have.
+
+Speaker 1:
+Can we distribute, that to all the participants?
+And then see what is happening.
+I'm sure that for eighty percent of the work and twenty percent of the machines will
+
+Speaker 0:
+be.
+
+Speaker 1:
+of course,
+
+Speaker 0:
+If we, just send them an email with the URL to the GitHub repo, uh, the moment they open the GitHub repo, they will see the readme page. We will make sure that in heading one on top of the README page, it says do this first or quick start guide step by step. Download the script, open the script, wait for it to show in green text, finished. And once it's finished, you can sign in with your claude code environment. And then we can start the, labs.
+
+Speaker 1:
+Okay. Very good.
+Let's put it in the summary and then I can distribute it.
+Um, Jo Kim, you are arranging with the kind of committee,
+uh, subscriptions, eh?
+It is a bit unclear to me how that is going exactly.
+
+Speaker 1:
+Yeah, I will say with Victor. I don't know.
+
+Speaker 0:
+Uh, I don't.
+
+Speaker 1:
+You now said that you wanted to buy.
+And the problem is in the first lecture we explain a little bit about privacy
+and compliance,
+
+Speaker 1:
+and
+
+Speaker 1:
+then we do something that is not in line with that.
+Let people work on private licenses without any agreement with quote.
+That is a bit strange.
+
+Speaker 1:
+I will follow up on with Victor whether Victor has.
+
+Speaker 1:
+You get a bit crazy for him because he gets all kinds of different dispersed emails, and then he now he wants to buy a thing, uh, thing.
+I, I don't understand.
+
+Speaker 1:
+will check with Victor.
+
+Speaker 1:
+But I could also do it.
+I still have a company.
+I could buy, uh, um, I could make a contract.
+Between OpenAI and this company.
+But then it's out of UI.
+It's also not completely in line with.
+
+Speaker 1:
+But we go to Codex. Now you said OpenAI. Do you mean anthropic?
+
+Speaker 1:
+Sorry, anthropic, yeah.
+
+Speaker 1:
+Okay, okay.
+
+Speaker 0:
+Uh, for, what it's worth just to share, like, it's very, it's very easy to create, uh- Enterprise account in Anthropic, even without a company. So you can have like a personal account, and the personal account then you can convert it to a shared account and then assign it to an organization. The organization doesn't have to have a VAT number. Uh, and then you basically buy seats for people. The only, downside of this approach is that for all of the users, you pay API pricing. So it's not like a Max or Pro subscription. It's you pay as much as you use. So then we would have to make quotas for users and say, okay, every user has a quota of 200 euro.
+
+Speaker 1:
+Until you then, if you do this, Do you then have a kind of, uh,
+also this privacy and compliance contract if you have this enterprise thing?
+
+Speaker 0:
+Uh,
+
+Speaker 1:
+because there is not a real legal entity it, there is the contract entity.
+
+Speaker 0:
+No,
+
+Speaker 1:
+no, no, it is not I, I'm looking for, if
+you guys to sign this project, you can get around it because you can get around it.
+Okay, if it, doesn't work, are you also on this committee?
+That's what, uh, your team is in the committee.
+And your team.
+Ah, yeah, yeah, that's yeah, yeah,
+
+Speaker 1:
+Yeah, yeah, That committee already says that the, the participants of this course will all be given, uh Uh, the allowance to, to declare. Uh, so that's, that's, the plan B. So that can be done each individually. Uh, uh, but I, I suggest that we, uh, that we see whether we can do it collectively, either via the fake company as Georgi, uh, uh, just, uh,
+
+Speaker 1:
+yeah, but that is not a good solution because that is still not the legally
+correct solution.
+The legally correct solution is that an entity where the people work to do the course,
+legal entity that they have a contract, and that relieves the participants
+of a lot of programs that could occur.
+
+Speaker 1:
+I'm suggesting that I reach out to Victor.
+
+Speaker 1:
+reach out to Victor.
+You need to be an example how this should be done. Yes.
+
+Speaker 1:
+And I will agree with Victor to decide by early next week, Monday or something, whether we can do it collectively or not. And if we cannot do it collectively, then each, each person will have to do it for.
+
+Speaker 1:
+And then we do it, and we tell that this is not the way you should do it.
+There was no other way.
+Okay, then we could probably walk a bit through.
+Uh, the evenings.
+May, maybe Georgie, you're the evening meet of evening mor.
+
+Speaker 0:
+Mm-hmm.
+
+Speaker 1:
+Before, before we start, let me just repeat what I already mailed. I will have to leave in at most five minutes. Sorry for that.
+
+Speaker 1:
+And then we start with evening three.
+Jo Kim, you are going to do paper replication in principle?
+
+Speaker 1:
+Yeah, I, I shared something via email, and I must apologize to Marlene because Marlene already reached out to me a few days back, and I'm lagging on interacting with her. But I did do an attempt to do a paper replication on a paper that I found just Quite, quite accessible, and it went very smoothly, both on Codex and on Claude. I also tried to install paper to agent, but that requires a lot of setup.
+
+Speaker 1:
+And this is not, I, I'm disappointed.
+
+Speaker 1:
+And it did not give me much added value. Uh, I found the interaction with Claude, uh, more than enough. To, so I suggest that we keep it, uh.
+
+Speaker 1:
+So you have a good example in doing that, and you do it together with Morland, eh?
+Yeah, yeah,
+
+Speaker 1:
+But I think that my, that the three of us still need to have a briefing, and we will try to, uh, to arrange that. Yeah.
+
+Speaker 1:
+And then it's very interesting if you will do, uh, your team the
+Mathematics, uh, stuff.
+I'm more on the theory side, but the theory side, the, uh,
+how you could use mathematics also with his personal
+experience.
+Experiences looks as simple, yes.
+Don't have your remarks about lean?
+Maybe you could show, make a demonstration of lean or something.
+
+Speaker 2:
+Uh, I'll think about it. Let me know that week, yeah,
+
+Speaker 1:
+sure.
+There is a kind of Ready to show the demonstration.
+You can use this.
+
+Speaker 2:
+I, I think we already got enough. Yeah, like I already got enough material. So basically, you talk about the comparative multiple AI.
+
+Speaker 1:
+What
+
+Speaker 2:
+AI is for that? A showcase, like how you find a specific data.
+
+Speaker 1:
+You do that after the replication exercise.
+
+Speaker 2:
+I, I'm open to anything for.
+
+Speaker 1:
+Yeah, so we start with the replication exercise,
+then you do that a little bit.
+We also want to do a day three a little bit this week five, too.
+And just
+
+Speaker 2:
+yes, but it's a bit disappointing. So I'll share my experience of, uh.
+
+Speaker 1:
+Maybe you also tell a little bit about that because it's rather popular
+with the economists.
+And maybe you could give their good advice about this.
+It's also very expensive, huh?
+
+Speaker 2:
+Yeah, very expensive, made by an economist, and gave it both to the editorial and like Nichol. So it's kind of suspicious, I would say, to be very honest. And also try the ones on my own paper that we just submitted to AER. So it's rare we find used. And my personal story is it's a bit disappointing. So they fail to find the real problem in the paper. I think there are some superficial comments.
+
+Speaker 1:
+No, I think that's very useful. One question to, to Mark. Do you want me to demonstrate something with lean or not? Because.
+
+Speaker 1:
+So there's a small group of clothes and lean or, uh,
+codecs and lean as an example.
+
+Speaker 2:
+So that part is not too familiar with. So Yuki, maybe you can do that part more.
+
+Speaker 1:
+You figure it out how you do it with principle.
+It's a ranked.
+
+Speaker 1:
+I think we can just have a short briefing next week with three of us and organize our day three.
+
+Speaker 1:
+have one question.
+Could you specify to us also the homework
+people need to do at phones?
+
+Speaker 2:
+Send some prototype to
+
+Speaker 1:
+Mark.
+Mark is two to two and then get ready to
+
+Speaker 1:
+try. I will put it on the repo. Gyorgi, please share the link again.
+
+Speaker 0:
+Yes, I'm, I'm. Creating it, uh, fresh so that everything is like well organized and we can put everything in the right folder. So I think by the time this meeting is done, you will have an invite.
+
+Speaker 1:
+Yeah, yeah.
+Did you
+
+Speaker 2:
+say homework before the meeting?
+
+Speaker 1:
+We have to think about it.
+
+Speaker 2:
+I think part of the before the meeting, part of
+
+Speaker 1:
+the never do it, they never do it.
+That's a bit improvement.
+
+Speaker 2:
+But they'll do it. What different views?
+
+Speaker 1:
+Yeah, they do it if it's useful, but
+you can better do it in the evening, maybe.
+So homework.
+
+Speaker 2:
+So I actually get a plan. Like on my part, actually the
+
+Speaker 1:
+whole.
+
+Speaker 2:
+So so basically, what we need is that we need them to propose a paper that in their own field that they think is important and to start a branch in
+
+Speaker 1:
+situation.
+
+Speaker 2:
+And then they talk about how this could potentially lead to their own research. And then based on my experience and my suggestion, they can write some prompts and they run it, and and then they can let us know whether it's actually to something
+
+Speaker 1:
+useful.
+
+Speaker 2:
+And this is basically also how I-
+
+Speaker 1:
+I think the evening three is very well organized.
+Your thing you could, uh- Uh, we actually set the
+
+Speaker 2:
+meeting with three months, I guess.
+
+Speaker 1:
+Yeah, I think
+
+Speaker 2:
+not fully organized yet, but we'll, we'll get there.
+
+Speaker 1:
+The general idea is very clear and I think the
+Also the sources and resources are clear.
+
+Speaker 2:
+Shall we be in counter today until you set a meeting?
+
+Speaker 1:
+Yeah, yeah, let's
+
+Speaker 1:
+do that. Let me just ask one question because I recall that at some moment we also said something about editorial policies, and I also sent an email with a short overview on what could be a very short exercise. But I'm not completely sure on which day that is meant to happen.
+
+Speaker 1:
+Uh, and we could also distribute it as a kind of, uh,
+material.
+Maybe they don't need to do it.
+I mean, it would be a nice exercise if you want to learn people how to scrape websites or so.
+But you, we could also say, yeah, we have a kind of resource for you, and that is the editorial policy per, uh, area.
+
+Speaker 0:
+Isn't this like part of the ethics?
+
+Speaker 1:
+But maybe it's good for people if they, check it.
+
+Speaker 2:
+But day two was on that, no?
+
+Speaker 0:
+Exactly. So
+
+Speaker 2:
+then it fits in nicely there.
+
+Speaker 1:
+So then I, I just memorized something that is out of scope now. I thought that was on me, but well, I don't think it's important because it's very easy. I mean, if you just ask one of these agents to do it for you, you get a very nice overview. But awareness is also part of the learning objectives, I guess. So just getting to learn what they can ask agents to do is also already a lot.
+
+Speaker 1:
+Yeah, my question would be, uh, so we have this, uh, faculty policy.
+Do we want to give a little bit of attention to that?
+I guess we should.
+Maybe short.
+
+Speaker 0:
+Is there a way that we can read it? Uh, do we have a written form of?
+
+Speaker 1:
+Yeah, I, sent you some slides before, but I will, put it in the repository and also just, uh, just the document for
+you.
+I think most of the, points on the
+policy are really straightforward, and you can summarize it as
+use it sensibly.
+But there's one, maybe one thing, um, that is
+we ask people to verify.
+So use AI, comes up with all kinds of nice solutions for you, and
+Then you should verify whether it's good.
+And to what extent you expect that?
+
+Speaker 3:
+That is done in my exercise. So my exercise is to write something yourself and use library tools and use good research and compare to yourself to each other. And there you can verify. That's a lot of, uh, that's the main part of my exercise, the verification of how to
+
+Speaker 1:
+do it. Very good, but I like to distinguish two things. I think that both say the same, but on different levels. What Bas is saying is that we should actually create awareness, tell them we have these, uh, rules. You can find them here, and then Mark illustrates a good application of the rules. So I think that we have to do both. Okay, this is the moment that I say goodbye, and I will reach out to Marlene, and I will reach out to the three of us to create an appointment.
+
+Speaker 3:
+Yeah, and then for FUV.
+
+Speaker 1:
+And I will everything that I need to add, I will put on the rapport.
+
+Speaker 0:
+Thank you, Joachim.
+
+Speaker 3:
+It is also important, Joachim. Like Georgi is setting the scene the eerste day on hoe je organize je werk.
+You make for a project directory. A project directory contains certain files, like logbook. md and maybe cloud. md and those things. We have to standardize that over.
+
+Speaker 1:
+That's a skill. I mean, we should, use that to illustrate the example of a skill and tell them how to adopt skills.
+
+Speaker 3:
+Yeah, not only a skill, but the whole organisation of the project. You have these files. Maybe you, uh, backup them in GitHub.
+
+Speaker 2:
+that can maybe be a good skill file.
+
+Speaker 1:
+Yeah, and and skill, skills can be installed in such a way that they always run. I mean, that you don't need to evoke them. So, yeah, okay, we will start that out, but I think it's very important. Thanks a lot for your call. Nice day.
+
+Speaker 2:
+And thanks a lot that you made it possible
+
+Speaker 3:
+to still
+
+Speaker 2:
+have the meeting. bye-bye.
+
+Speaker 0:
+Bye.
+
+Speaker 2:
+And George, you do evening one.
+
+Speaker 0:
+Yep.
+
+Speaker 2:
+Maybe
+
+Speaker 3:
+I do the introduction of the introduction. Like that is sketchy wat we are going to do. And why we are doing this, it's also very important to tell that it's not our intention to learn all people just do end-to-end research. It is more to show what the possibilities are and also to show what the weak and strong points are and how you should use it in a responsible way. That's a very important message. People leave the room, say, yeah, they learn us how to automate paper writing that is coming of the view that we want to leave. And then you start out a little bit telling about organization, eh? How do you set up a project? Which files are important there? How do you avoid that it will be-- that your machine will become a mess? If you don't know which agents exist and after one. And if the all, if the editor of a journal is asking what did you exactly do, that you could demonstrate that.
+
+Speaker 0:
+Yep, with some lineage. We, we already talked about it, right? We have it in the description of the slides. I still have to finish the slides, but I'm not
+
+Speaker 3:
+Maybe you can distribute that also to us because then in our exercises we could use this organization also.
+
+Speaker 0:
+Yep, it's already in the repo. So I think Marlene would be the fastest one to check and see everything because she sent me some emails as well. I have to respond. Uh, but yeah,
+
+Speaker 2:
+please share those slides with me so we don't do the double content then.
+
+Speaker 0:
+So in the meeting invite for this, for for this meeting, I sent an email just now with a link. I'll just send the link as well here in the chat. Um, so you see.
+
+Speaker 2:
+One question, uh On the setup of this evening, um, I think it's quite overwhelming for students to start with, like, how to set up an agents file, uh, this and that, before having a general like introduction of what are we doing, why should you know cloud code for research? then it's just hard to pay attention. In my view, like, wouldn't it make more sense to start with an introduction of like? You know, what is this course? Um, why would we want to use AI, have some, some references of research, maybe a small demo, and then go into the more technical detail of like how to structure the folder, et cetera? Would you not think that makes sense?
+
+Speaker 3:
+Yeah, yeah, yes, we would think.
+
+Speaker 0:
+Yeah, but that's, uh, I, I assume that. This was the plan all along, right? We wouldn't. Ah, okay, okay, Hey guys, now let's do some agents. We would probably give them some nice embedding, like some context in which they can understand why we're doing this. I think it's, it also would be nice if Mark, uh, give gives this in the beginning, in the intro of the intro, like explain why we are doing this course and what they're gonna learn. Um, yeah, and then slowly the get that
+
+Speaker 3:
+move into more technical stuff. Do we make a kind of, uh, file ourselves where it is written meaning that the agents have to behave ethical if it's, if they, if you, it blows files? With contain personal information, maybe the things like that. They should learn how to do that, I think. They should learn how to do this.
+
+Speaker 0:
+we get
+
+Speaker 3:
+allowed the father's contains personal information that you shouldn't do it, or only if you have very well thought what the consequences could be, if you've documented that. Um, yeah,
+
+Speaker 2:
+I think that fits in that.
+
+Speaker 3:
+Those kinds of things, yeah.
+
+Speaker 0:
+We can add in the root folders. So now if you check out the script for setup Windows, you'll see that it makes the directories for them. It makes everything for the labs. I think it would be nice if we just make this part of the script that it puts this permission file inside of every repo. So of Of every lab folder so that the agent always behaves the same for everyone.
+
+Speaker 3:
+We have to, we'll have, you'll have some kind of standardized stuff with this.
+
+Speaker 0:
+Yep, yep, yeah, yes. Uh, now it used to be a little bit more cowboy, but uh, in the past couple of months, there is a standard, uh, loader for permissions on Claude. So Cloud always tries to load permissions before it starts running. And that's, very nice. For example, at work, it used to be the case that in auto mode you could not commit anything to a shared repository. It always says auto mode will block you. But now, uh, we have a permission file saying, no, auto mode shouldn't block, uh, trying to push to a shared repository, so it doesn't block them anymore.
+
+Speaker 2:
+It's true that we have to do
+
+Speaker 3:
+And then we do the exercises Molane and a partner. And the homework there is to take your most favorite technical paper that could be turned in something with you
+
+Speaker 2:
+picked. A few things about that. My partner, he is a the podcast maker, the daily podcast. So he said. He can definitely ask someone else to be willing to do it, but he said, like, it made no sense for him to do it because he's not a journalist. Yeah, he doesn't want to take the credit for that. But if we take an external person from the FA, I think it should be more than five minutes. And I'm not sure if we have that time or should like dedicate that time.
+So what will a person
+
+Speaker 3:
+do? Like, tell me a bit about, uh, how he writes the future.
+
+Speaker 2:
+So, uh, I can't do
+
+Speaker 3:
+it. Um, if it is too difficult because we can also have to keep ourselves.
+
+Speaker 2:
+For sure. I just don't want it to be a decorative role. But I have thought about a bit about the exercise myself, and I thought maybe we can, like, it's definitely gonna be the homework, but part of the introduction of this lecture could also be that you do----, I think different levels in which you can use AI, like you can use it in a chat function or with agents in workflows, et cetera. And The message, I think, should also be like, you don't need each level, but you need to decide what level of complexity you want to use. And then we can do this very comprehensible task, like writing an article in different ways. Like first just asking it to clot, like, here's my paper. Now write an article and put it in a nice FD format. And then we say, like, okay, but you can also use Agents to question you on, like, the core message that you want to tell, and then that push you on. Okay, well, who are you writing for? Blah, And then they won't know exactly how to do this themselves. But then it already comes to do the whole structure. But then they've already had an introduction of like these are various ways you can do it in. And with this task, it's super easy to see because it's not a complex task. Um,
+
+Speaker 3:
+I find it also interesting to let people write the skill file for it.
+
+Speaker 2:
+Yeah, that would be one of the levels.
+
+Speaker 3:
+How you have, uh, your, um, you have the skill file contains the means of skill file contains the way you want to write. Steel file contains some references to previous articles to be roll through it. And then it's also probably, it's maybe also an exercise to find the paper that you pick that is suitable for that bank and the collection of your papers that you have reading. How do you select such paper? It's probably not a real Agent both exercise that is useful to pick the value.
+
+Speaker 0:
+Now that there is a cue I really like. It's called Grill Meat. Have you seen it? So it's It's a skill that basically sharpens any idea that you might have. So basic----, I shared with you, Mark, at some point.
+
+Speaker 3:
+Yeah, you sent it to me, yeah, and never opened it. I agree with, yeah.
+
+Speaker 0:
+It's, it's very simple. It's basically asking the model to ask you questions based on documentation and knowledge. Within a certain domain, and then sharpen it to a point where the agent finds it satisfying, at least at the minimum of what is considered good in that field or domain. So this is maybe a good thing to show them as well, like especially in writing and especially in trying to, uh. Convert a paper to an article. How, how far do you need to go and what are the questions you need to ask yourself or do you need to ask the model asks you to make something reasonable worth publishing? I can send the link here of the grilling skill, and then the grill me skill is part of it, or just add it here to the to the
+
+Speaker 2:
+But now, uh, we
+
+Speaker 0:
+don't
+
+Speaker 2:
+have access to it. Maybe you can also upload it in the in that repository you want to share?
+
+Speaker 0:
+Oh, it's public. So now, uh, can you, try to open it? I, I shared the link. Do you have a laptop? Let me just.
+
+Speaker 2:
+Yeah, there's only Mark's laptop, so bit complicated to save it and then
+
+Speaker 0:
+I show you. So, uh, the repo is called Mini Gorgi. And it has a bunch of- Are you
+
+Speaker 2:
+made it?
+
+Speaker 0:
+Yeah, it has a bunch of skills here. There's about forty skills starting from S. Georgie all the way to shape up some writing. The primary skill is called grilling, and basically it's a skill that just asks you questions like these and gives you a recommended answer, and then Waits for you to answer, but then you can put it as a part of your actual workflow with Grill Me. Yeah. So then Grill Me just uses the grilling skill. That's
+
+Speaker 3:
+very
+
+Speaker 1:
+neat.
+
+Speaker 0:
+Yeah, man.
+
+Speaker 3:
+We will take a look at it as well. Maybe also something that is a little bit less, uh, ethical. Do we also distribute kind of cleaners? And people can. Yeah, humanize it.
+
+Speaker 0:
+With cleaners? You mean for for the writing?
+
+Speaker 2:
+Yeah, the unplugging.
+
+Speaker 0:
+Yeah, this.
+
+Speaker 3:
+Do we enhance this?
+
+Speaker 0:
+Yeah, we have it.
+
+Speaker 3:
+Do we. We get it also to this.
+
+Speaker 0:
+Here it is.
+
+Speaker 3:
+It's also do the exercise.
+
+Speaker 0:
+Yeah, we, we can, show it.
+
+Speaker 3:
+Is it, is that cleaner also cleans up the more or less invisible statistical?
+
+Speaker 0:
+Yeah, it tries, to. Uh, the those statistics change all the time. So, uh, we have to keep up to date with them, but I, I, uh, This skill does a pretty good job. So this, the, the one I'm sharing now is the repo with the skills, and there is a repo with the research course. So here we have the slides that already have. The, so this is like for the intro and for the privacy ethics thing we worked on with. Joaquim. We have the scripts. So there is a script to set up Windows, and there is a script to tear down Windows. So they can, if they want to clean up their everything that they've built, they can use this one. If they want to set everything up from scratch, they can use this one. The recordings I'm not sharing here because they're too large. If you want me to share them, I will share them. Uh, we'll
+
+Speaker 3:
+take a look at it.
+
+Speaker 0:
+Yeah, for reading
+
+Speaker 3:
+with the. Also, if you also included something that they have not to say to everything yes and no, like now, if you use cloth, uh, especially asked really every millimeter, shall I do this? Uh, only the very serious things like overwriting files or deleting files if you say yes or no.
+
+Speaker 2:
+auto mode.
+
+Speaker 0:
+Auto mode, yeah. Uh, shift up and you shift up twice, and you get into auto mode. Um, what was
+
+Speaker 2:
+now the idea with, uh, having them up to speed beforehand or in the first lecture? Like, is Do we ask them to prepare some things before?
+
+Speaker 3:
+Limit yes because they don't do it. The things that you could ask is take a paper with you that you want to translate into, uh, an
+
+Speaker 2:
+FJ
+
+Speaker 3:
+article. Then you specify and what the requirements on that, uh, paper are.
+
+Speaker 2:
+then we have to make the instruction like super, super. Been in this setup for so many times, and it only takes one and a half hour. So we have that for the full.
+
+Speaker 3:
+Even the setup of machines and the setup of the machines needs to be done before. Oh, so the installation of growth code and all that ships and python and GitHub laptop needs to be done up front because then if they do it at front, we can figure out. Which machines it is not working. we do ask
+
+Speaker 2:
+them to do everything upfront, actually.
+
+Speaker 3:
+yeah, excuse me, guys. There is our problem on one of my lip books, a lip book that had not an intel to install cloth quality.
+
+Speaker 0:
+If if it's a pro book, then maybe, Oh, uh, sorry.
+
+Speaker 3:
+It was been, uh, throughout me a long time. I, searched for it on the internet and found it. If it's a
+
+Speaker 0:
+guys, and, uh, I'm
+
+Speaker 3:
+sorry to
+
+Speaker 0:
+interrupt you. I have my car is arriving in five minutes to pick me up from here.
+
+Speaker 3:
+We are almost done. I'm preparing my exercise. My exercise is an exercise with two learning objectives. One learning objective is so much to do with growth or agents that is think about the future of universities and our area in the times of AI. Both the research part and the education part. And the second thing is, uh, write something about it. And there you learn to do deep research to help you, and you learn to write your own key to search in the library.
+And there we need the API keys. They need to. Uh, we, you can get it very easily on Open Alex, Open Alex API, you have to.
+
+Speaker 1:
+They also have some kind of connect feature on OpenALEx.
+
+Speaker 3:
+Yeah, just open. Yeah. Don't know whether they are. There is an MCP, sir. Very straight limit.
+thank you so much. I will, um, uh, make OB meeting Or in ten days or so to, uh, to, yeah, finalize the reason before. Yeah, to replicate the reason.
+
+Speaker 2:
+When do we want to send things out to students? When should this finalize remain that?
+
+Speaker 3:
+Maybe not, we shouldn't do that too far, uh, before. The only thing that we should do, the only thing that we should probably do far Is this insulation of the machines? Because if it is not working out, they need to go to closer.
+
+Speaker 0:
+Yeah, that we can share that script even from now. It's already in the GitHub repo.
+
+Speaker 3:
+Give it to me, I'll distribute that to
+
+Speaker 0:
+the
+
+Speaker 3:
+participants of the first round. And I'll tell them, Jordan, that if something is hampering. Did I pull it you?
+
+Speaker 0:
+Yes, please. Like, I'm happy to support everyone to install.
+
+Speaker 3:
+Yeah, you guys could also go to us if it's not working out.
+
+Speaker 0:
+Uh, also for me next week. For me next week, I will reach out to Marlene and go over the stuff that she sent me in the mail. And, uh, but I'll be at the university so we can meet in person.
+
+Speaker 3:
+Okay, I really like it. Thanks a lot.
+
+Speaker 0:
+Thank you guys. It was a pleasure.
+
+Speaker 3:
+See you all. Have a nice weekend.
+
+Speaker 0:
+too. Bye.
