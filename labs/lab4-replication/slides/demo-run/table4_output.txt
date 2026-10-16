@@ -1,0 +1,32 @@
+Card & Krueger (1994) Table 4 - replication of check.sas in pandas/NumPy
+Stores in public.dat: 410; in DATA C1 subset: 357; used in PROC REG (no missing in any model var): 357  [paper: 357]
+Dependent variable DEMP: mean -0.238, s.d. 8.825  [paper: -0.237, 8.825]
+
+Col   Regressor      Coef   Paper      SE   Paper    SER  Paper  p(ctrl)  Paper
+-------------------------------------------------------------------------------
+(i)   NJ             2.33    2.33    1.19    1.19   8.79   8.79        -      -
+(ii)  NJ             2.30    2.30    1.20    1.20   8.78   8.78     0.34   0.34
+(iii) GAP           15.65   15.65    6.08    6.08   8.76   8.76        -      -
+(iv)  GAP           14.92   14.92    6.21    6.21   8.76   8.76     0.44   0.44
+(v)   GAP           11.91   11.91    7.39    7.39   8.74   8.75     0.31   0.40
+
+Column (v) in check.sas omits CO_OWNED (MODEL DEMP=GAP BK KFC ROYS CENTRALJ SOUTHJ PA1 PA2).
+Variant with CO_OWNED added, as the paper's note b describes column (v):
+(v)*  GAP           11.98   11.91    7.42    7.39   8.75   8.75     0.40   0.40
+
+Full coefficient listing (check.sas models):
+  DEMP ~ gap                n=357: gap=15.653 (6.080)
+  DEMP ~ gap+chain          n=357: gap=14.916 (6.205), bk=-0.014 (1.515), kfc=0.645 (1.696), roys=-1.926 (1.683), co_owned=0.409 (1.092)
+  DEMP ~ gap+chain+region   n=357: gap=11.913 (7.394), bk=-0.280 (1.528), kfc=0.433 (1.693), roys=-2.287 (1.643), centralj=-1.397 (1.391), southj=-0.113 (1.207), pa1=-3.599 (1.966), pa2=0.249 (1.745)
+  DEMP ~ nj                 n=357: nj=2.326 (1.192)
+  DEMP ~ nj+chain           n=357: nj=2.304 (1.196), bk=0.512 (1.498), kfc=1.004 (1.686), roys=-1.705 (1.682), co_owned=0.308 (1.094)
+
+Stores left out of the regressions:
+  DEMP missing (FTE employment missing in wave 1 and/or wave 2): 26
+    of which: wave-1 FTE missing 12, wave-2 FTE missing 14, both missing 0
+    status2 of these: {0: 1, 1: 21, 2: 2, 4: 1, 5: 1}
+  DEMP present but open store with missing wage in wave 1 or 2 (DWAGE missing): 27
+    wave-1 wage missing 19, wave-2 wage missing 9; NJ 19, PA 8
+  In C1 but missing a model variable (e.g. GAP for closed store w/o wave-1 wage): 0
+  Permanently closed stores (status2=3): 6, kept in sample: 6 (wave-2 FTE = 0)
+  Total left out: 53 of 410

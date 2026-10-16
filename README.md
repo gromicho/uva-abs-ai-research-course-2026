@@ -9,6 +9,8 @@ Course material and planning for a short UvA course that teaches researchers to 
 | `slides/` | Lecture and lab decks, with their image assets |
 | `reading-materials/` | Lab assignments and facilitator plans |
 | `scripts/` | Windows setup and teardown scripts for participants |
+| `labs/` | Starter code and data scripts per lab, with facilitator reference solutions |
+| `templates/` | Research log and AI-disclosure templates used across labs |
 | `meeting-notes/` | One folder per meeting: transcript, notes or summary, mind map |
 | `recordings/` | Meeting audio, named `YYYY-MM-DD-<meeting>.m4a`. Git ignores the audio files, so they stay local. |
 
@@ -29,6 +31,8 @@ Meeting folders and recordings use ISO dates (`2026-09-15-all-hands`).
 | 3 | Lab 4: replicate a paper's results by describing the method to Claude | Joaquim, Marleen, Yenan |
 
 Lab 2 material is in `reading-materials/Lab2-Privacy-Ethics-Assignment.md` and `slides/Lab2-Privacy-Ethics-Slides.html`. The setup scripts are in `scripts/`.
+
+Lab 4 material (draft) is in `reading-materials/Lab4-Paper-Replication-Assignment.md` and `labs/lab4-replication/`, with an end-to-end capstone example in `reading-materials/`.
 
 ## Meeting agendas
 
