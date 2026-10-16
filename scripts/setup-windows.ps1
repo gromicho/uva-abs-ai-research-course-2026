@@ -4,7 +4,8 @@
 
 .DESCRIPTION
     Downloads and installs Git, Python 3.12, VS Code and Claude Code, then creates a Python
-    virtual environment with the course libraries (numpy, pandas, scrapy, etc.).
+    virtual environment with the course libraries (numpy, pandas, scrapy, etc.). Each lab folder
+    gets an AGENTS.md and a copy of permissions.md, which must sit next to this script.
     Safe to run twice. Anything already installed is skipped.
 
 .USAGE
@@ -196,6 +197,9 @@ $agentsTemplate = @'
 ## Project
 {LAB}: describe what this lab is about in one or two sentences.
 
+## Rules
+- Read permissions.md in this folder before you act, and follow it
+
 ## Conventions
 - Python 3.12, dependencies live in the shared .venv one folder up
 - Never overwrite files in data/raw
@@ -206,6 +210,14 @@ $agentsTemplate = @'
 - Plain language, no marketing tone
 '@
 
+# The same permissions.md goes into every lab folder. It lives next to this script.
+$scriptDir = if ($PSScriptRoot) { $PSScriptRoot } else { (Get-Location).Path }
+$permissionsSource = Join-Path $scriptDir 'permissions.md'
+if (-not (Test-Path $permissionsSource)) {
+    Write-Warn2 "permissions.md not found next to this script ($scriptDir). Lab folders will be created without it."
+    Write-Warn2 'Download the whole repository, not just this file, and run the script again.'
+}
+
 foreach ($lab in $Labs) {
     $labDir = Join-Path $ProjectDir $lab
     foreach ($sub in 'data\raw', 'notes', 'scripts', 'outputs') {
@@ -214,6 +226,10 @@ foreach ($lab in $Labs) {
     $agents = Join-Path $labDir 'AGENTS.md'
     if (-not (Test-Path $agents)) {
         $agentsTemplate.Replace('{LAB}', $lab) | Set-Content -Encoding utf8 $agents
+    }
+    $permissions = Join-Path $labDir 'permissions.md'
+    if ((Test-Path $permissionsSource) -and -not (Test-Path $permissions)) {
+        Copy-Item $permissionsSource $permissions
     }
     Write-Ok $lab
 }
@@ -261,7 +277,7 @@ Next steps:
   1. Close this window and open a new PowerShell.
   2. cd $ProjectDir
   3. .\.venv\Scripts\Activate.ps1
-  4. cd lab0-intro   (each lab folder has data, notes, scripts, outputs and AGENTS.md)
+  4. cd lab0-intro   (each lab folder has data, notes, scripts, outputs, AGENTS.md and permissions.md)
   5. claude          (first run asks you to log in)
 
 If Activate.ps1 is blocked, run once:
