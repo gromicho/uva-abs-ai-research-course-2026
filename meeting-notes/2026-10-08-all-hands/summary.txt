@@ -1,0 +1,37 @@
+New Recording 24
+
+This meeting focused on the final coordination of an AI research course for academics. The primary objectives were resolving software licensing constraints, finalizing the technical infrastructure via GitHub, and structuring the three-day curriculum to balance technical skills with ethical research practices.
+
+Topic Overview
+The session addressed the logistics for a 35-person cohort. Key discussions included the automated setup of research environments on university-managed machines, the procurement of Anthropic enterprise licenses, and the refinement of laboratory exercises centered on paper replication and advanced writing workflows.
+
+Agreement Summary
+• Licensing and Compliance: Joachim will consult with Victor to finalize a collective Anthropic licensing agreement by early next week. The goal is to ensure a legally sound contract that protects participant privacy. If a collective solution fails, participants will be advised to use individual licenses as a contingency.
+• Infrastructure and Deployment: Georgie developed a PowerShell setup script for Windows machines to automate the installation of Claude Code, Python, and GitHub. This script will be distributed via a GitHub repository link to participants ahead of the course.
+• Standardized Agent Governance: To ensure ethical AI behavior, every lab repository will include a standardized permission file in the root directory. This file will govern agent actions, such as preventing unauthorized commits to shared repositories or the mishandling of personal data.
+• Course Structure and Content: The curriculum will move from a strategic overview (led by Mark) to technical organization (led by Georgie). Day 3 will focus on paper replication and the use of specialized "skills" like "Grill Me" for idea sharpening and "Cleaners" for humanizing AI-generated text.
+
+Immediate Implementation Schedule
+
+• Early Next Week: Licensing Decision - Joachim and Victor to confirm collective vs. individual Anthropic subscriptions.
+• Next Week: Day 3 Briefing - Joachim, Yuki, and Marlene to finalize paper replication and math demonstrations.
+• Pre-Course: Machine Setup - Participants to run the PowerShell script from the GitHub repo to verify environment compatibility.
+
+Nuance and Friction
+• Tool Efficacy: Yuki expressed significant skepticism regarding "Paper to Agent" tools, noting they often provide superficial insights and fail to identify substantive research flaws. The team agreed to focus on direct interaction with models for replication rather than relying on automated wrapper tools.
+• Ethical Paradox: There is an acknowledged tension in teaching privacy and compliance while potentially requiring participants to use private licenses that lack formal university data-sharing agreements.
+• Attendance Buffering: The cohort is intentionally capped at 35, with the expectation that fallout will result in a final group of approximately 25 to 28 active participants.
+
+Participant Workflow
+
+• Introduction -> Machine Setup Script
+• Machine Setup Script -> Ethics & Privacy Briefing
+• Ethics & Privacy Briefing -> Field-Specific Paper Selection
+• Field-Specific Paper Selection -> Replication & Writing Labs
+
+Participant List
+• Georgie: Technical Lead. Developed the GitHub infrastructure, automated setup scripts, and standardized agent permission protocols.
+• Joachim: Administrative and Committee Coordinator. Managing licensing procurement and Day 3 curriculum planning.
+• Yuki: Subject matter expert for Economics and Mathematics. Leading the paper replication exercises and providing critiques of existing AI research tools.
+• Mark: Strategy and Introductory Lead. Responsible for the high-level framing of the course and its pedagogical objectives.
+• Marlene (Collaborator): Tasked with assisting in Day 3 planning and verifying repository documentation.
